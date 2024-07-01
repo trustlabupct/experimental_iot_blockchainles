@@ -1,0 +1,17 @@
+2024-06-26 10:53:57,578 - Published transaction 57da9974-150a-4de9-b9cb-60b65a3766b7 to iot/temperature2
+2024-06-26 10:54:17,607 - Published transaction 1872419b-a9f9-4747-b205-3c6e2277452c to iot/temperature1
+2024-06-26 10:54:37,645 - Published transaction 2bf625fd-ff8a-4d66-8d70-71771d460530 to iot/temperature3
+2024-06-26 10:54:57,673 - Published transaction 212ea8a8-ba9a-48d2-bd9b-aa179dfe8133 to iot/temperature4
+2024-06-26 10:55:17,699 - Published transaction 50404101-2e4d-4a2c-b494-125def111e4d to iot/temperature3
+2024-06-26 10:55:57,728 - Published transaction 52673c6c-cfad-42b0-ba18-03497b7e3c29 to iot/temperature3
+2024-06-26 10:56:17,752 - Published transaction da7844a7-073a-41e1-bb9b-b3f8d26a0cfe to iot/temperature5
+2024-06-26 10:56:37,791 - Published transaction 42c2bcb9-9729-4e4f-9ad3-414846ebd328 to iot/temperature2
+2024-06-26 10:56:57,812 - Published transaction 10de1948-ce8a-4c0d-81d4-efbd36f80f0e to iot/temperature8
+2024-06-26 10:57:17,835 - Published transaction 6b6a757e-6e34-4b5a-86e2-0a2a071f081a to iot/temperature1
+2024-06-26 10:57:37,840 - Published transaction 4018edae-75d3-477d-a182-4936d3e66bb4 to iot/temperature1
+2024-06-26 10:57:57,861 - Published transaction 009bbb0f-f975-4eb6-a987-8eb59f126577 to iot/temperature8
+2024-06-26 10:58:37,903 - Published transaction f33ee50e-eb2f-42bc-b9e4-7d919a1d0d98 to iot/temperature1
+2024-06-26 10:58:57,909 - Published transaction 481a9b2c-3c8d-4826-be94-2902d2a1f898 to iot/temperature2
+2024-06-26 10:59:17,934 - Published transaction 2f6081bb-d95c-4bbb-bb52-1d3dfbde733c to iot/temperature2
+2024-06-26 10:59:37,948 - Published transaction 969147bb-43db-4271-979b-5cf44f279cec to iot/temperature1
+2024-06-26 10:59:57,954 - Published transaction 5461ba5c-120a-4769-a06f-564d9c38ff05 to iot/temperature2

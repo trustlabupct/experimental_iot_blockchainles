@@ -1,0 +1,1192 @@
+{
+    "28a17a3ef9b11fc0b67d5740690e64b414fb267a14591c4f2792c86771790511": {
+        "device_id": "IoT_3",
+        "temperature": 27.82,
+        "timestamp": "2024-06-27T11:37:36.441588",
+        "transaction_id": "5756a2cd-2bc3-4b7e-9acd-5cf905793adf",
+        "node_id": "Master_2"
+    },
+    "ddc0024243fa3dcc9ac430ea2220046a9b85cf2156d482a6723eb16988db9927": {
+        "device_id": "IoT_3",
+        "temperature": 32.79,
+        "timestamp": "2024-06-27T11:37:41.444345",
+        "transaction_id": "1dc7509e-7280-4607-8605-60a6d831c7a6",
+        "node_id": "Master_2"
+    },
+    "c59e1ba4c0de7fb775b81ef0e07d1983598658d526f6627629bc89999c4616db": {
+        "device_id": "IoT_3",
+        "temperature": 19.27,
+        "timestamp": "2024-06-27T11:37:46.450138",
+        "transaction_id": "8e968592-5abd-44c0-9874-1629e0517ee4",
+        "node_id": "Master_2"
+    },
+    "35e8a1cdb8e16af01942dbc878e32679b6be62463013f86aefb3a83ede013b1a": {
+        "device_id": "IoT_3",
+        "temperature": 17.71,
+        "timestamp": "2024-06-27T11:38:06.468344",
+        "transaction_id": "0630fad3-ae37-403d-8771-9bf80facb205",
+        "node_id": "Master_2"
+    },
+    "c98b7b5b4c5fa63a3a4566f580abae18cf4431f1296e8229dca56fb0fa69f5ec": {
+        "device_id": "IoT_3",
+        "temperature": 19.02,
+        "timestamp": "2024-06-27T11:38:11.474806",
+        "transaction_id": "64b691bb-fd18-455c-9f70-2746f75237f8",
+        "node_id": "Master_2"
+    },
+    "f8c08942bb55ca6952f888ce2131435f245d877c704cc2454319d2e62f053ae2": {
+        "device_id": "IoT_3",
+        "temperature": 19.78,
+        "timestamp": "2024-06-27T11:38:16.481181",
+        "transaction_id": "a71b0fa3-20e0-4bdc-98e4-1a6855b4ca84",
+        "node_id": "Master_2"
+    },
+    "69c219fc3e81616c22ec1f12737be869ba8790de47fbfb2278cbcfa81675dbdf": {
+        "device_id": "IoT_3",
+        "temperature": 25.45,
+        "timestamp": "2024-06-27T11:38:21.486215",
+        "transaction_id": "3be80029-8261-453b-9d5b-69994d693076",
+        "node_id": "Master_2"
+    },
+    "14b3cea8d7886c004f4b7b72e8d9748f25227e57053a0be811d49e068fc593dd": {
+        "device_id": "IoT_1",
+        "temperature": 17.95,
+        "timestamp": "2024-06-27T11:38:23.514859",
+        "transaction_id": "e113d5d8-01e9-4f89-bba6-d8eece8e040a",
+        "node_id": "Master_2"
+    },
+    "ef1400b9664cae45adedc84985c284a7de7a5bcbf069c092ccab63a2a87c1dbc": {
+        "device_id": "IoT_1",
+        "temperature": 31.2,
+        "timestamp": "2024-06-27T11:38:26.518669",
+        "transaction_id": "b9a44f90-f6cb-4ebb-b972-6b7b6f92fddc",
+        "node_id": "Master_2"
+    },
+    "7aec14fe6602ac36a61407308f603e36cf720a053ead5e77bcffe912cca3fe26": {
+        "device_id": "IoT_1",
+        "temperature": 30.44,
+        "timestamp": "2024-06-27T11:38:29.529748",
+        "transaction_id": "ede6a429-a4cc-465d-9b55-bf5c8e387196",
+        "node_id": "Master_2"
+    },
+    "ea5a333242f1fb3acd5e795cd7fb2a7e4aafaa49f26dae8613d4b9fa4531d75e": {
+        "device_id": "IoT_1",
+        "temperature": 33.23,
+        "timestamp": "2024-06-27T11:38:32.534671",
+        "transaction_id": "778dc1ce-16ca-465f-9636-fb6a620711c2",
+        "node_id": "Master_2"
+    },
+    "0549e96873af0e7cdf6cc561074a42de73213a81b32535600791a074ce36cffd": {
+        "device_id": "IoT_1",
+        "temperature": 22.23,
+        "timestamp": "2024-06-27T11:38:35.542720",
+        "transaction_id": "57367720-bba4-4526-b1a4-5c41f1d79788",
+        "node_id": "Master_2"
+    },
+    "7138b154c73e2435e189fdc339ad2607a975b8c8c70c48b981321ee52f035dbd": {
+        "device_id": "IoT_1",
+        "temperature": 25.77,
+        "timestamp": "2024-06-27T11:38:38.547696",
+        "transaction_id": "5da44a00-3af6-402d-96ed-1a0891bff6e2",
+        "node_id": "Master_2"
+    },
+    "97b17cf687352bd8d7557fc7debc5d8a87e9e31fdf5a3a41984db41405aa5140": {
+        "device_id": "IoT_3",
+        "temperature": 12.77,
+        "timestamp": "2024-06-27T11:38:41.509336",
+        "transaction_id": "d9f1f626-a10d-4cc7-a8d2-1077a1fd2090",
+        "node_id": "Master_2"
+    },
+    "a3cb46cb184bf555db615a75bf751c00e8a01d00adc05dadc0a85f46dbc9940d": {
+        "device_id": "IoT_1",
+        "temperature": 18.73,
+        "timestamp": "2024-06-27T11:38:41.553899",
+        "transaction_id": "bbddc23c-88e6-424d-aa04-10eeee47671e",
+        "node_id": "Master_2"
+    },
+    "f56d647eccc423b8ca169545e174b3e1f167d72c07acd6c9ffe793dd19e55c7a": {
+        "device_id": "IoT_3",
+        "temperature": 29.69,
+        "timestamp": "2024-06-27T11:38:42.907519",
+        "transaction_id": "15cf6f08-6527-4dbd-90a0-dbd65251cfdc",
+        "node_id": "Master_2"
+    },
+    "e42ec09523e56e6762afad7b520a84aee66e5fa8cb15bb6e25f7f219516eed36": {
+        "device_id": "IoT_1",
+        "temperature": 22.83,
+        "timestamp": "2024-06-27T11:38:44.563592",
+        "transaction_id": "4c66041a-b990-4f3e-882a-46abb9fed447",
+        "node_id": "Master_2"
+    },
+    "ff1c5791acd766cce615a9da98bcf521c787f9df57739b3fb1f6a12933109b26": {
+        "device_id": "IoT_3",
+        "temperature": 21.6,
+        "timestamp": "2024-06-27T11:38:45.912851",
+        "transaction_id": "1c3b9a58-8aa2-4898-9e58-b49b0d54d029",
+        "node_id": "Master_2"
+    },
+    "19e1b6246483534fe1df4359f2de7a656cd1b52ebe15ca0f51a7ce6b2a9f1d6f": {
+        "device_id": "IoT_3",
+        "temperature": 19.21,
+        "timestamp": "2024-06-27T11:38:46.510859",
+        "transaction_id": "95c41956-476c-4eee-b5b4-a2adfd0a604d",
+        "node_id": "Master_2"
+    },
+    "5002bbc954b3317de6506daf16ba71eae627c86d3540dfe0882f43acdda33129": {
+        "device_id": "IoT_1",
+        "temperature": 27.43,
+        "timestamp": "2024-06-27T11:38:47.567501",
+        "transaction_id": "e3973e12-01ff-4109-bca4-ea916a18ec45",
+        "node_id": "Master_2"
+    },
+    "3d4a5c4df1ec9d8817f2b4aa175706696e6ca5c04cef2994ddba30a510268b91": {
+        "device_id": "IoT_3",
+        "temperature": 34.45,
+        "timestamp": "2024-06-27T11:38:48.916415",
+        "transaction_id": "e03aa6f9-bf84-4ef7-9b93-d1b36bd6da6c",
+        "node_id": "Master_2"
+    },
+    "399ba06a90bb55a64a28d7f14290566a382411d49813dd59933d14d9a320c34f": {
+        "device_id": "IoT_1",
+        "temperature": 31.48,
+        "timestamp": "2024-06-27T11:38:50.572322",
+        "transaction_id": "2e04f7de-82f9-4ec3-ac10-814f9af3aa08",
+        "node_id": "Master_2"
+    },
+    "caa83ace68f3c2c662a9b3a43a892a61354afdd696a9e7c07db830542b18c196": {
+        "device_id": "IoT_3",
+        "temperature": 23.17,
+        "timestamp": "2024-06-27T11:38:51.514841",
+        "transaction_id": "5da7d4bd-79b3-4092-9704-56c9ec715078",
+        "node_id": "Master_2"
+    },
+    "4db2b2d6123c31ad40d1bbf41d06478ef52ede75f1db594b2d9753cd9971954f": {
+        "device_id": "IoT_3",
+        "temperature": 25.74,
+        "timestamp": "2024-06-27T11:38:51.924340",
+        "transaction_id": "1a62d98c-88d7-4db8-916f-c1f07536b407",
+        "node_id": "Master_2"
+    },
+    "ccf946740ed8803549993292e88d2bf46303d5f1b88a5b98879cab1d5858b841": {
+        "device_id": "IoT_1",
+        "temperature": 24.72,
+        "timestamp": "2024-06-27T11:38:53.576782",
+        "transaction_id": "c3fd9264-5bb8-4885-b069-fe464c7440e5",
+        "node_id": "Master_2"
+    },
+    "6734e93a93d7cd71d48ceed30dda2d510d8233e375ca1c297149199999faba87": {
+        "device_id": "IoT_3",
+        "temperature": 26.32,
+        "timestamp": "2024-06-27T11:38:54.929882",
+        "transaction_id": "3da04c6f-c1e2-4496-b713-8c5ed5f6658b",
+        "node_id": "Master_2"
+    },
+    "00b10160184384693361bd9105063fee38e3426b435892e94a6482a089731ab4": {
+        "device_id": "IoT_3",
+        "temperature": 31.16,
+        "timestamp": "2024-06-27T11:38:56.520579",
+        "transaction_id": "834df03c-80f5-4951-8da3-013a0ee31272",
+        "node_id": "Master_2"
+    },
+    "bf244e9d52df454b57ec179e0d4b8f4619e16b482586c0afd525e918c0b35a5c": {
+        "device_id": "IoT_1",
+        "temperature": 21.95,
+        "timestamp": "2024-06-27T11:38:56.581532",
+        "transaction_id": "dd089179-207d-4174-9369-42413d846b6e",
+        "node_id": "Master_2"
+    },
+    "5d7e9ecc9b73db7e99aa828d155e07baa5f8bd515a9c8d8444276a9d52c5ff16": {
+        "device_id": "IoT_3",
+        "temperature": 20.48,
+        "timestamp": "2024-06-27T11:38:57.933932",
+        "transaction_id": "34bd383d-c782-4104-9cce-374b69bc63b3",
+        "node_id": "Master_2"
+    },
+    "262bf35279368e89a9755dd3b6bfdd0c1b9d4be1e57ff1356b80277545a07ae4": {
+        "device_id": "IoT_1",
+        "temperature": 34.54,
+        "timestamp": "2024-06-27T11:38:59.589924",
+        "transaction_id": "3f4f2391-6193-43f0-b41b-f046c8b172d0",
+        "node_id": "Master_2"
+    },
+    "b98775717f36ca7b64602c3e5117c1562ecf7b770f7bd57a166a3e4cb0034c7a": {
+        "device_id": "IoT_3",
+        "temperature": 16.87,
+        "timestamp": "2024-06-27T11:39:00.946503",
+        "transaction_id": "c59cec9d-7c2e-473f-9681-2b8d370667cd",
+        "node_id": "Master_2"
+    },
+    "dd0dccd5593a0e81b333f9e337e594451302d46ee526ee6e4cb996a5565c04eb": {
+        "device_id": "IoT_3",
+        "temperature": 23.4,
+        "timestamp": "2024-06-27T11:39:01.532166",
+        "transaction_id": "62909175-ab4f-4efb-adfc-e6a27d309591",
+        "node_id": "Master_2"
+    },
+    "35a6210684bf6ce489b37ff7ba28734ef34a3d5dd50ca4fd245185be416a950b": {
+        "device_id": "IoT_1",
+        "temperature": 15.04,
+        "timestamp": "2024-06-27T11:39:02.594993",
+        "transaction_id": "741fa790-b26f-41ab-8ac5-035c500eef84",
+        "node_id": "Master_2"
+    },
+    "3fb7b6259e4796af4b61f28e248a9261eb48e4cf49b0366a73ae8e2aa2656717": {
+        "device_id": "IoT_3",
+        "temperature": 32.33,
+        "timestamp": "2024-06-27T11:39:03.964451",
+        "transaction_id": "a958b3e6-9f63-403a-987b-56683c570ac1",
+        "node_id": "Master_2"
+    },
+    "51b7c03ebb0b0d513549d0edf2adc02f5a3705b5020cd02caa8ba5b393f7d321": {
+        "device_id": "IoT_1",
+        "temperature": 33.44,
+        "timestamp": "2024-06-27T11:39:05.639491",
+        "transaction_id": "b3f78708-a159-4da2-a2b0-1e9538f44b7b",
+        "node_id": "Master_2"
+    },
+    "268f046ab41302f982014ed419bd5b3b4555bcec39f21be61e58850dd62a0059": {
+        "device_id": "IoT_3",
+        "temperature": 15.06,
+        "timestamp": "2024-06-27T11:39:06.544776",
+        "transaction_id": "9b63101e-4db8-4a88-8ee6-22c14efbcc2b",
+        "node_id": "Master_2"
+    },
+    "ead9c2cd62ad79a6321cfbd994887e9d4fa0e34f80cc4549860acd8777c55490": {
+        "device_id": "IoT_3",
+        "temperature": 16.27,
+        "timestamp": "2024-06-27T11:39:06.971569",
+        "transaction_id": "7f23579d-3353-4265-b842-efd6ef19b316",
+        "node_id": "Master_2"
+    },
+    "8496ca1b2d97ed0ef2ee08ba389e75f7674cc95d0668354b830b90af0d8c87c2": {
+        "device_id": "IoT_1",
+        "temperature": 18.53,
+        "timestamp": "2024-06-27T11:39:08.644996",
+        "transaction_id": "ccb5d855-cb9c-43b7-aa80-02fd7220646f",
+        "node_id": "Master_2"
+    },
+    "bf692e0d0961cfbbea95ebede58bffeff8547e6cf4960f49d3aeb3f65734dd14": {
+        "device_id": "IoT_3",
+        "temperature": 17.21,
+        "timestamp": "2024-06-27T11:39:09.980827",
+        "transaction_id": "795a8b04-5c73-4460-b3ed-7ea105ed34f8",
+        "node_id": "Master_2"
+    },
+    "f77c33be9dc915a6e555da3ae23419132ae3f8739eb5269291bab3eb11d4ca95": {
+        "device_id": "IoT_3",
+        "temperature": 19.17,
+        "timestamp": "2024-06-27T11:39:11.550175",
+        "transaction_id": "6b39e490-4402-4c37-ad27-8c147d6c3462",
+        "node_id": "Master_2"
+    },
+    "1773b25c5fe40d62e0cc3edfcb95b6071289028fa0a9454d23d4b0752b112041": {
+        "device_id": "IoT_1",
+        "temperature": 18.71,
+        "timestamp": "2024-06-27T11:39:11.651029",
+        "transaction_id": "d5605d16-7dba-40d9-8cba-08c7b7f2cc9d",
+        "node_id": "Master_2"
+    },
+    "6f07b311137f56e42ecc01771444a485602f7bdb8fb6e76aeecdeb3a005f90ef": {
+        "device_id": "IoT_3",
+        "temperature": 11.24,
+        "timestamp": "2024-06-27T11:39:12.983224",
+        "transaction_id": "64187ddd-221f-4189-a4bd-5a9c882e91b1",
+        "node_id": "Master_2"
+    },
+    "704af28773a0125b15dd2c9cf0dae5533d0c38c99cda117e0ffc030cfc9e1b27": {
+        "device_id": "IoT_3",
+        "temperature": 15.93,
+        "timestamp": "2024-06-27T11:39:16.556432",
+        "transaction_id": "4a118bdc-01d5-47cf-9935-1696a6c5d69d",
+        "node_id": "Master_2"
+    },
+    "0f143762115be15ec274afa71a5d187a6a5f830ff6666075ab3fdf198b5e0b59": {
+        "device_id": "IoT_3",
+        "temperature": 27.97,
+        "timestamp": "2024-06-27T11:39:21.571657",
+        "transaction_id": "6847016d-81b7-4000-b53c-f2a9102e4060",
+        "node_id": "Master_2"
+    },
+    "d0bc0f8c97ae5d828432e537e9228951ae9203199063a029b1e2e0b7de8aa19a": {
+        "device_id": "IoT_3",
+        "temperature": 29.85,
+        "timestamp": "2024-06-27T11:39:26.578691",
+        "transaction_id": "c994c6eb-e8d5-4f13-8027-ff9c5b40fc4f",
+        "node_id": "Master_2"
+    },
+    "e179a2309ea5c3f440cc61532aafc601156333e1a268d880ae9f176d877f3106": {
+        "device_id": "IoT_3",
+        "temperature": 33.02,
+        "timestamp": "2024-06-27T11:39:31.589269",
+        "transaction_id": "791781b6-15ba-4c25-84f7-d18a98c2be53",
+        "node_id": "Master_2"
+    },
+    "d7878672599a3bb01113b01c2640cab9e6f339c62e294bf830314b5705c1edbe": {
+        "device_id": "IoT_1",
+        "temperature": 19.8,
+        "timestamp": "2024-06-27T11:39:32.677534",
+        "transaction_id": "98fb7e9f-f377-42f4-b5d6-6ba230675228",
+        "node_id": "Master_2"
+    },
+    "43747864b834dc0f74afec62f62a881dbfff56ac9b7395a10052002cfe0cb075": {
+        "device_id": "IoT_3",
+        "temperature": 11.95,
+        "timestamp": "2024-06-27T11:39:34.022548",
+        "transaction_id": "a78f6fce-84b0-4bd7-9bd3-c1e4f2949a55",
+        "node_id": "Master_2"
+    },
+    "d13ff4d1062e3047345e8d4247240eb243332b64dd4db4ee1db98d82bd9c0c73": {
+        "device_id": "IoT_1",
+        "temperature": 27.23,
+        "timestamp": "2024-06-27T11:39:35.683059",
+        "transaction_id": "39accb2f-59e6-405e-934a-6a092d8b43c4",
+        "node_id": "Master_2"
+    },
+    "088cdd972948829fb922217cc663dd2b7c8d8c4259bbde580a60ce43d4aca1a7": {
+        "device_id": "IoT_3",
+        "temperature": 29.53,
+        "timestamp": "2024-06-27T11:39:36.603195",
+        "transaction_id": "e95a2523-aad7-4814-a3c7-b8c0745d711b",
+        "node_id": "Master_2"
+    },
+    "7fdc748df91ad3b5ab13dfdcd3a048a07a32ac3f285c3e63b5882310e06770cc": {
+        "device_id": "IoT_3",
+        "temperature": 31.76,
+        "timestamp": "2024-06-27T11:39:37.028854",
+        "transaction_id": "52066f87-cf85-40dc-81a9-b8f4166224fe",
+        "node_id": "Master_2"
+    },
+    "e05d68fd7023c5a5b4b89f7c0976d84b7797a830a47cb5e0eb9f0ec1f5a80787": {
+        "device_id": "IoT_1",
+        "temperature": 20.89,
+        "timestamp": "2024-06-27T11:39:38.690621",
+        "transaction_id": "6068bf74-6fae-4372-81bb-7250d383365b",
+        "node_id": "Master_2"
+    },
+    "d1504bc1d34876f8cab1a12e2b8b9bb380f9f1da79f1331aa936c0444f5bc540": {
+        "device_id": "IoT_3",
+        "temperature": 27.72,
+        "timestamp": "2024-06-27T11:39:40.034079",
+        "transaction_id": "aeb38150-50c3-4f03-ad22-90a70944366d",
+        "node_id": "Master_2"
+    },
+    "c8f193eb65d20df80fbe8f5ebce29db4d23df393e4d300cebb8621a4d296fdc4": {
+        "device_id": "IoT_3",
+        "temperature": 29.68,
+        "timestamp": "2024-06-27T11:39:41.607784",
+        "transaction_id": "fa180d17-64d6-4c81-8106-4a403c3af887",
+        "node_id": "Master_2"
+    },
+    "ae69779b4a49e0f9f1119cac7352835b2aec43f576384e013f8c7e7be00ff40b": {
+        "device_id": "IoT_1",
+        "temperature": 26.27,
+        "timestamp": "2024-06-27T11:39:41.710542",
+        "transaction_id": "bfad4259-cdbe-4528-822b-1375f588b878",
+        "node_id": "Master_2"
+    },
+    "ddae09be0d748234837aabd3399f46d90bff021aceaa22337a86fd3993de30c5": {
+        "device_id": "IoT_3",
+        "temperature": 18.92,
+        "timestamp": "2024-06-27T11:39:43.044522",
+        "transaction_id": "93839ccd-9249-4125-a069-37e256d5ff1c",
+        "node_id": "Master_2"
+    },
+    "51a8cf6755123821f4b5cdc3eb50c8a9f1c1adab06e3594fdba6376759a3b9a5": {
+        "device_id": "IoT_1",
+        "temperature": 27.03,
+        "timestamp": "2024-06-27T11:39:44.725380",
+        "transaction_id": "13c532ae-9003-4dce-96f2-19810cada182",
+        "node_id": "Master_2"
+    },
+    "c7124099f89e2eada771c23b04875eb6badf4c5d3c53cfe06f3f4193527870ef": {
+        "device_id": "IoT_3",
+        "temperature": 22.33,
+        "timestamp": "2024-06-27T11:39:46.054251",
+        "transaction_id": "2e415eb6-a599-4ac0-96d5-a15e6e740241",
+        "node_id": "Master_2"
+    },
+    "9a877757a445dc51915b992cd6d2bccac7c86681b128e4b58f0ad7a38b00c343": {
+        "device_id": "IoT_3",
+        "temperature": 22.86,
+        "timestamp": "2024-06-27T11:39:46.617108",
+        "transaction_id": "3e24252b-6dae-4dfd-a357-f21b434e594f",
+        "node_id": "Master_2"
+    },
+    "84a56b47e3b9ba5f785d49aa2b68850b5e1133c23f35254226998ae1c1110f97": {
+        "device_id": "IoT_1",
+        "temperature": 18.74,
+        "timestamp": "2024-06-27T11:39:47.731714",
+        "transaction_id": "4f4c4b26-58f6-42ea-a80d-7e390c6472ad",
+        "node_id": "Master_2"
+    },
+    "d5feacf1b0e347a849a616a12c77e522f03799f13c1da07eca2bf3dbf40dcbaa": {
+        "device_id": "IoT_3",
+        "temperature": 28.53,
+        "timestamp": "2024-06-27T11:39:49.061347",
+        "transaction_id": "bf42847a-6c42-4a70-8300-8b4b2285e1dc",
+        "node_id": "Master_2"
+    },
+    "27f820d12d650a5ddb78e1b705518faa6a356393ab215231040e19c1ad0814cf": {
+        "device_id": "IoT_1",
+        "temperature": 16.82,
+        "timestamp": "2024-06-27T11:39:50.737532",
+        "transaction_id": "0705ee96-9083-4ba9-b623-ce550f88277d",
+        "node_id": "Master_2"
+    },
+    "43c1c05a701d73399aa4278f7b5e7ce2bba46f43e00d59aa2a66ed5072172090": {
+        "device_id": "IoT_3",
+        "temperature": 18.59,
+        "timestamp": "2024-06-27T11:39:51.620005",
+        "transaction_id": "19f1f44e-1353-4f60-b220-063a561f3cc0",
+        "node_id": "Master_2"
+    },
+    "dddf36f9c3ace1974cd64d64002408c3b755a89717e67e19fa08143917b96371": {
+        "device_id": "IoT_3",
+        "temperature": 32.81,
+        "timestamp": "2024-06-27T11:39:52.072423",
+        "transaction_id": "19c26d2d-7e93-455e-9149-8e6b68af38bc",
+        "node_id": "Master_2"
+    },
+    "2140343f982effb23e424e3cb2ddbf362aa8330e662baf88e4fbda1e07e63aa2": {
+        "device_id": "IoT_1",
+        "temperature": 15.75,
+        "timestamp": "2024-06-27T11:39:53.744367",
+        "transaction_id": "310ce99b-0742-425d-863c-d5d68243f20e",
+        "node_id": "Master_2"
+    },
+    "226cc588d2aac93e1d7a2fa2d13782acf5ed47f45ba14f342a3367fea635abbd": {
+        "device_id": "IoT_3",
+        "temperature": 33.61,
+        "timestamp": "2024-06-27T11:39:55.082826",
+        "transaction_id": "ca3bc670-065b-4944-91ad-a4f85f382de9",
+        "node_id": "Master_2"
+    },
+    "66b0cfc43deb0a38e2ce452bee633ec7d04fae7bac1d325ee69c9be2cf91c20a": {
+        "device_id": "IoT_3",
+        "temperature": 26.51,
+        "timestamp": "2024-06-27T11:39:56.626630",
+        "transaction_id": "1cf0c5fe-c33b-4b06-84ee-80e3625685e2",
+        "node_id": "Master_2"
+    },
+    "d4cf9a893ac3310875bfec3c7895f0b957b505fe1bc398c5bf54d8eac0f51a36": {
+        "device_id": "IoT_1",
+        "temperature": 16.54,
+        "timestamp": "2024-06-27T11:39:56.747851",
+        "transaction_id": "3ec79dc1-c018-44c4-913f-8d006475a8d7",
+        "node_id": "Master_2"
+    },
+    "b26a3b333efdeddb7c952e770d7149bb4759c693f964c58419052ba3dc2ed156": {
+        "device_id": "IoT_3",
+        "temperature": 12.1,
+        "timestamp": "2024-06-27T11:39:58.084627",
+        "transaction_id": "9c6929e8-d0b2-4f19-964b-a8c2109513c0",
+        "node_id": "Master_2"
+    },
+    "26b9bb660326c955e67542af6e6e8df8a922225f41e7bbae4dd9d263aaa66d6a": {
+        "device_id": "IoT_1",
+        "temperature": 24.71,
+        "timestamp": "2024-06-27T11:39:59.750897",
+        "transaction_id": "d745045d-1210-47df-9cd4-3c2f4de1bc4d",
+        "node_id": "Master_2"
+    },
+    "152b3590c3fcd18ffb4e24781993e0fa5f6c2ae9257f7f87a70f40acf8c10bd5": {
+        "device_id": "IoT_3",
+        "temperature": 33.44,
+        "timestamp": "2024-06-27T11:40:01.092073",
+        "transaction_id": "74328142-21f5-4e4b-b790-e5328e94e409",
+        "node_id": "Master_2"
+    },
+    "7d4718f8b21ed44e386afd31e071dc72bc83d7135c6a69ff08e68fbfbeb61fe5": {
+        "device_id": "IoT_3",
+        "temperature": 23.59,
+        "timestamp": "2024-06-27T11:40:01.632989",
+        "transaction_id": "dafc5070-0daa-43f2-a7f1-e49bf6395989",
+        "node_id": "Master_2"
+    },
+    "60cd7589c74bc524f0070a3c6dd04e762d7c0f049ebd76ebcc5db623ae485703": {
+        "device_id": "IoT_1",
+        "temperature": 21.72,
+        "timestamp": "2024-06-27T11:40:02.758752",
+        "transaction_id": "337e5ccf-89d9-482c-bdee-06ee86c6a5a0",
+        "node_id": "Master_2"
+    },
+    "1c563524d66acc8cc983b83b57f35b673e014c4bc3928f6f72c4d8a0169069ac": {
+        "device_id": "IoT_3",
+        "temperature": 29.99,
+        "timestamp": "2024-06-27T11:40:04.098696",
+        "transaction_id": "c6e302bb-d704-448a-8344-4663f981a16a",
+        "node_id": "Master_2"
+    },
+    "4751518a3845b609a0cf46eb7bbb948c66efd7c8a4cc9001b49ccd6205da2007": {
+        "device_id": "IoT_1",
+        "temperature": 28.8,
+        "timestamp": "2024-06-27T11:40:05.763301",
+        "transaction_id": "660cf865-3934-495a-a84f-081d10f4de40",
+        "node_id": "Master_2"
+    },
+    "2ea36fa2b1c61361ac2f2f0ec24845010f166bb46f4a0b221f49060b70aeade2": {
+        "device_id": "IoT_3",
+        "temperature": 26.77,
+        "timestamp": "2024-06-27T11:40:06.644170",
+        "transaction_id": "4b5a23a1-da7a-42b9-986a-732581293a41",
+        "node_id": "Master_2"
+    },
+    "b61e9c0291ffd47e495373a961b7dda8b037478c8065de683566b95a4ea1adbc": {
+        "device_id": "IoT_3",
+        "temperature": 20.34,
+        "timestamp": "2024-06-27T11:40:07.110143",
+        "transaction_id": "882e6bbf-42fa-4f1b-a306-5d054f8cb6df",
+        "node_id": "Master_2"
+    },
+    "40549f91fdacb3498b2c9b2b1a1b12a35c67b1f014d928f36a61122e84f4befa": {
+        "device_id": "IoT_1",
+        "temperature": 31.59,
+        "timestamp": "2024-06-27T11:40:08.764724",
+        "transaction_id": "be33b793-1024-480e-bb80-01475cb019d8",
+        "node_id": "Master_2"
+    },
+    "108ffd572561c7ec5580479c428deaf4e0ce1b02c481defc9229f8ff85fc0e43": {
+        "device_id": "IoT_3",
+        "temperature": 21.96,
+        "timestamp": "2024-06-27T11:40:10.116232",
+        "transaction_id": "3ed5a624-ca64-41f8-94e6-0d7f03f13520",
+        "node_id": "Master_2"
+    },
+    "b71c6fc3b717ca53e52351d5301478c283c3455627c914fdd2e5cc3b63d53da1": {
+        "device_id": "IoT_3",
+        "temperature": 10.75,
+        "timestamp": "2024-06-27T11:40:11.647518",
+        "transaction_id": "665a7a9f-d607-48a6-9d7d-1a417276807a",
+        "node_id": "Master_2"
+    },
+    "503397ebcdbfcdf3e3b042f2ab5accb66e83e74263053ce8b7c962a16ce44b3c": {
+        "device_id": "IoT_1",
+        "temperature": 24.42,
+        "timestamp": "2024-06-27T11:40:11.770775",
+        "transaction_id": "69a2a34c-07ef-4454-b6bc-9441405d25e4",
+        "node_id": "Master_2"
+    },
+    "e197a881ccfc21a346493f08d6abf45f7b434e7586954d4180d3ed63ec964f4c": {
+        "device_id": "IoT_3",
+        "temperature": 29.43,
+        "timestamp": "2024-06-27T11:40:13.140606",
+        "transaction_id": "9960c6e5-d865-4575-8ad4-5bc0d2e929ad",
+        "node_id": "Master_2"
+    },
+    "8bd18e470967c931e0dbe788ebea5df1f235bb58bbabbdc7c97dbb03db6b6d8e": {
+        "device_id": "IoT_1",
+        "temperature": 16.18,
+        "timestamp": "2024-06-27T11:40:14.777472",
+        "transaction_id": "eb3dd11d-6204-47b7-9d45-b1752ee4d490",
+        "node_id": "Master_2"
+    },
+    "4febaf6a3dd352f743f0b118e14ca5839689f3eb98ebdadf42e2e21de034d824": {
+        "device_id": "IoT_3",
+        "temperature": 12.62,
+        "timestamp": "2024-06-27T11:40:16.151302",
+        "transaction_id": "6ae1d9cb-21fa-4a52-940b-23aeffc4a72d",
+        "node_id": "Master_2"
+    },
+    "67933e67ad572f257e1afca014206ef76bc5d4fbf3a0db83d525c039a2120e6a": {
+        "device_id": "IoT_3",
+        "temperature": 20.5,
+        "timestamp": "2024-06-27T11:40:16.669424",
+        "transaction_id": "9e49071f-de1c-4dcf-8274-f53cf6b9fee5",
+        "node_id": "Master_2"
+    },
+    "d0f5fbcad983a512b03051450fc780e2318c1e95feceea05294b640ccb804598": {
+        "device_id": "IoT_1",
+        "temperature": 17.4,
+        "timestamp": "2024-06-27T11:40:17.779637",
+        "transaction_id": "ed23abf4-a01c-4175-a4df-c4df4fbb8d14",
+        "node_id": "Master_2"
+    },
+    "f5a24511c1adf812732790940859723d12e68477091b6fc6bade6cefaab19cbb": {
+        "device_id": "IoT_3",
+        "temperature": 20.33,
+        "timestamp": "2024-06-27T11:40:19.156240",
+        "transaction_id": "3d1766a3-155f-487a-93f3-f5520a8ed4c9",
+        "node_id": "Master_2"
+    },
+    "241641663b45484ae46443a82d66248f6af27e33478e3d654b2e8dd4cf946f5d": {
+        "device_id": "IoT_1",
+        "temperature": 24.07,
+        "timestamp": "2024-06-27T11:40:20.783795",
+        "transaction_id": "c230402f-d8db-413f-914d-060b78964bf9",
+        "node_id": "Master_2"
+    },
+    "2c137547e8e3989bacb383729ac0879fc98354666e4c97dc0d34ddb609b2b20c": {
+        "device_id": "IoT_3",
+        "temperature": 20.11,
+        "timestamp": "2024-06-27T11:40:21.677623",
+        "transaction_id": "0a8b7cce-36c4-404d-8a35-ac2a7cf38afb",
+        "node_id": "Master_2"
+    },
+    "c954c7373c0162bc8755ccb661bd7a8b1450a8222f345a7ab43c8296cf171c6c": {
+        "device_id": "IoT_3",
+        "temperature": 28.71,
+        "timestamp": "2024-06-27T11:40:22.161515",
+        "transaction_id": "a8b6ee40-6190-4d7e-83f7-311551923bba",
+        "node_id": "Master_2"
+    },
+    "4aea3d274c204b1c89ecc83877bc28110ea672402cf4203584760f2ba7df9a60": {
+        "device_id": "IoT_1",
+        "temperature": 13.9,
+        "timestamp": "2024-06-27T11:40:23.786521",
+        "transaction_id": "737f43d6-edff-4e7c-ad7e-9d8a7b69957e",
+        "node_id": "Master_2"
+    },
+    "8e7d013c8f7e4163347378b5e7f14b6bc71bf8fa9dea8694bd498daee023c1bc": {
+        "device_id": "IoT_3",
+        "temperature": 29.67,
+        "timestamp": "2024-06-27T11:40:25.163887",
+        "transaction_id": "ece6e4b0-d604-4fe0-92af-d85ed38f9916",
+        "node_id": "Master_2"
+    },
+    "734dc52b4aa922718b67fe2a3fa01a09cd439e7ca1c1397a27cae497f85152cc": {
+        "device_id": "IoT_3",
+        "temperature": 27.55,
+        "timestamp": "2024-06-27T11:40:26.685338",
+        "transaction_id": "94e3d5fa-2496-45ff-ae00-f253a415ea85",
+        "node_id": "Master_2"
+    },
+    "d9530baa98c6833fd62f3aa8d87011203ce74b747e2483f940723b91db8760bb": {
+        "device_id": "IoT_1",
+        "temperature": 31.88,
+        "timestamp": "2024-06-27T11:40:26.790951",
+        "transaction_id": "65962be0-9681-4c9b-bd20-af7d7942f1d8",
+        "node_id": "Master_2"
+    },
+    "d236b92c8a1dcb036b5d82da16d729dc94788e5b2b327dfe24998207d990ae35": {
+        "device_id": "IoT_3",
+        "temperature": 19.47,
+        "timestamp": "2024-06-27T11:40:28.179879",
+        "transaction_id": "dc285d81-2850-41a2-a3bf-af44035b268b",
+        "node_id": "Master_2"
+    },
+    "79f286798138bf870249bbcffe1037538aad3f456d62a0472286a8a9426cecc1": {
+        "device_id": "IoT_1",
+        "temperature": 15.0,
+        "timestamp": "2024-06-27T11:40:29.796259",
+        "transaction_id": "a19df155-211a-4c4d-983a-3493d1ad1b83",
+        "node_id": "Master_2"
+    },
+    "0344b1fe4818b61e28ef031010aee75b9641e21e9a1492733326b0ebbe88796e": {
+        "device_id": "IoT_3",
+        "temperature": 32.33,
+        "timestamp": "2024-06-27T11:40:31.185828",
+        "transaction_id": "87cf5e2a-96fb-4fe7-ad01-6776e3c22a83",
+        "node_id": "Master_2"
+    },
+    "74009fe920a8ee9af904fcda7b75d978094a4393157b269310e16a771726f34f": {
+        "device_id": "IoT_3",
+        "temperature": 28.79,
+        "timestamp": "2024-06-27T11:40:31.694114",
+        "transaction_id": "8a44f7d9-a0aa-45f6-9133-13b206683694",
+        "node_id": "Master_2"
+    },
+    "d74e4524d338e949293c145f3b9b89bbb1001db762ed74c788d6a3471c25640d": {
+        "device_id": "IoT_1",
+        "temperature": 23.07,
+        "timestamp": "2024-06-27T11:40:32.801109",
+        "transaction_id": "882797b0-181e-4301-a284-20273df13089",
+        "node_id": "Master_2"
+    },
+    "bd350fc54def13318ee9e379313d6208459bf1920a5cf3ba5892596dcbffbab5": {
+        "device_id": "IoT_3",
+        "temperature": 33.58,
+        "timestamp": "2024-06-27T11:40:34.196318",
+        "transaction_id": "8acb2727-c533-476c-a4e4-0e91e4074d2e",
+        "node_id": "Master_2"
+    },
+    "00a5514e1696b9354ca9df8a6888f3eff6344c778e2df448996282057231f133": {
+        "device_id": "IoT_1",
+        "temperature": 26.58,
+        "timestamp": "2024-06-27T11:40:35.807283",
+        "transaction_id": "52954573-6cca-49af-9d8d-360818458d7b",
+        "node_id": "Master_2"
+    },
+    "a043cabf38b1666456e57c9b6494735217edb8ce939aa6df74f7afe54b18d3a9": {
+        "device_id": "IoT_3",
+        "temperature": 11.55,
+        "timestamp": "2024-06-27T11:40:36.708607",
+        "transaction_id": "fc63cd72-2098-4916-ad0a-941a31c1a914",
+        "node_id": "Master_2"
+    },
+    "c3d47abc2f7b17079613a037b2f95a49b6742b2781e81d25060a220fa2f9d6f9": {
+        "device_id": "IoT_3",
+        "temperature": 22.38,
+        "timestamp": "2024-06-27T11:40:37.200645",
+        "transaction_id": "06ecae27-ff23-43c0-a303-38d81a581afd",
+        "node_id": "Master_2"
+    },
+    "bff0aedddce6f1a30d53a56ad06bce412b2a8b7d8beec08cfbb73b5bae389040": {
+        "device_id": "IoT_1",
+        "temperature": 22.31,
+        "timestamp": "2024-06-27T11:40:38.810498",
+        "transaction_id": "78a79f3d-39bb-44b8-9a3f-fe9446611cbb",
+        "node_id": "Master_2"
+    },
+    "d57b95babb833b414e2d22298b16f513e0aab67e9291191d337f085f7816d5d1": {
+        "device_id": "IoT_3",
+        "temperature": 27.87,
+        "timestamp": "2024-06-27T11:40:40.210793",
+        "transaction_id": "31c9a1c1-6c44-4e18-9c81-818b08399bcf",
+        "node_id": "Master_2"
+    },
+    "59b3759b52253ae7cb636423b245b09208cc826b264d08d70409dd876fb9ee5b": {
+        "device_id": "IoT_3",
+        "temperature": 27.73,
+        "timestamp": "2024-06-27T11:40:41.714773",
+        "transaction_id": "6dcd5ab2-0eb0-42bc-b30c-5a2cf8ce7f71",
+        "node_id": "Master_2"
+    },
+    "981d3df6d283363603209dfc8cdae3339d5b8903f249967da288d61a993e7d27": {
+        "device_id": "IoT_3",
+        "temperature": 10.56,
+        "timestamp": "2024-06-27T11:40:43.218676",
+        "transaction_id": "d3dd8b85-170b-4f60-b1c2-5a6ace93f550",
+        "node_id": "Master_2"
+    },
+    "9c22fee25f36da613b0fac6bbb48c63acda8677947386e8f947a210f6e570b10": {
+        "device_id": "IoT_3",
+        "temperature": 29.96,
+        "timestamp": "2024-06-27T11:40:46.225206",
+        "transaction_id": "54c29334-a8c1-405d-83c6-357fe1df7eff",
+        "node_id": "Master_2"
+    },
+    "f5aa3f1df4ddc7eb7dde17f54ffb0566e1bf9289d5205f668ec5e905615b32c2": {
+        "device_id": "IoT_3",
+        "temperature": 20.13,
+        "timestamp": "2024-06-27T11:40:46.718623",
+        "transaction_id": "8802efb2-e0ef-4780-b6df-264cfff3ccfa",
+        "node_id": "Master_2"
+    },
+    "2ba159f9e0db06e3026da9c420768ebc4c0d458a9fe742e8cd6fad56dafe0606": {
+        "device_id": "IoT_3",
+        "temperature": 24.84,
+        "timestamp": "2024-06-27T11:40:49.230114",
+        "transaction_id": "39a621b7-f242-41f5-b0af-f9747067356e",
+        "node_id": "Master_2"
+    },
+    "691a44df697f53052da20737dadb411c162da3e319180c0af66e69726092212b": {
+        "device_id": "IoT_3",
+        "temperature": 18.49,
+        "timestamp": "2024-06-27T11:40:51.725150",
+        "transaction_id": "cfc5a7fb-2ea1-489e-af54-2c1d271dd2dc",
+        "node_id": "Master_2"
+    },
+    "1086d5de2584e8f0b0925a78f5bf773d82d7432642fe6bcc2b158a8fbb8cd969": {
+        "device_id": "IoT_3",
+        "temperature": 10.78,
+        "timestamp": "2024-06-27T11:40:52.231197",
+        "transaction_id": "48787477-fe95-439d-b1a6-65e03ae3dddb",
+        "node_id": "Master_2"
+    },
+    "e38726891a3654b31c3611c9917a48b84bf77309586e43fb6270e26b21c7babb": {
+        "device_id": "IoT_3",
+        "temperature": 32.24,
+        "timestamp": "2024-06-27T11:40:55.232466",
+        "transaction_id": "aaf71113-8ad1-43a8-894d-c4098c0a2fa8",
+        "node_id": "Master_2"
+    },
+    "03bd6e390a4d7ad6e506bd0f2a3ba123392c2730dc1b3778ab311f99d3bcc776": {
+        "device_id": "IoT_3",
+        "temperature": 13.87,
+        "timestamp": "2024-06-27T11:40:56.727636",
+        "transaction_id": "e99e0e13-2cd8-4aae-8e7c-a02a3793b844",
+        "node_id": "Master_2"
+    },
+    "f203e98eabda03497dde04d3545426e60b63155ddefc5605a8b3b98461fce266": {
+        "device_id": "IoT_1",
+        "temperature": 18.56,
+        "timestamp": "2024-06-27T11:40:56.835704",
+        "transaction_id": "c297fa3d-7cee-41a8-a621-9e1947183e2e",
+        "node_id": "Master_2"
+    },
+    "94ca8842ea8fb4621a6abcfe039dc6c78c13ae77a833ce047af412a18444948c": {
+        "device_id": "IoT_1",
+        "temperature": 14.65,
+        "timestamp": "2024-06-27T11:40:59.842008",
+        "transaction_id": "e07e8a94-6a58-4c9a-843b-7daea55c46a8",
+        "node_id": "Master_2"
+    },
+    "f718a78b30318cea11c658008294a8ab66f0f36b6f4b6ecbaaa12bc81d2b07d6": {
+        "device_id": "IoT_3",
+        "temperature": 10.2,
+        "timestamp": "2024-06-27T11:41:01.733128",
+        "transaction_id": "5669ef3f-6420-40d9-b290-27bc7145d75c",
+        "node_id": "Master_2"
+    },
+    "420aef9374d2064690412787a49e8ffeecc2a7330db444995ed63969ce79a64f": {
+        "device_id": "IoT_1",
+        "temperature": 21.76,
+        "timestamp": "2024-06-27T11:41:02.843059",
+        "transaction_id": "534e4eb7-9a11-4806-aef6-2de64ff0077d",
+        "node_id": "Master_2"
+    },
+    "e8d15cb3c1cafb1b014c2ffcfad84ff475d3b75f9e42df09edb004b355ac619d": {
+        "device_id": "IoT_1",
+        "temperature": 12.76,
+        "timestamp": "2024-06-27T11:41:05.852362",
+        "transaction_id": "c00b8295-d68f-40ea-9372-20751799365a",
+        "node_id": "Master_2"
+    },
+    "96f6e05614c93ee6eb31c19184a7f5327f118bcb05ed19997ddc7aff725c35b2": {
+        "device_id": "IoT_3",
+        "temperature": 28.3,
+        "timestamp": "2024-06-27T11:41:06.743494",
+        "transaction_id": "4f9e6a35-9cc6-468c-988e-2fc22804d9a3",
+        "node_id": "Master_2"
+    },
+    "d951ab42675a0510a969e8f222b566c4de113a66f12ac0a83f261f2555816c8b": {
+        "device_id": "IoT_1",
+        "temperature": 26.57,
+        "timestamp": "2024-06-27T11:41:08.857515",
+        "transaction_id": "e17bd5e6-fe95-4566-bba2-563f9903a920",
+        "node_id": "Master_2"
+    },
+    "9b47e5e21bed2651205699ccdff305ef1c17f0e3644fa65bedfca0cc5e494fba": {
+        "device_id": "IoT_3",
+        "temperature": 30.11,
+        "timestamp": "2024-06-27T11:41:11.751158",
+        "transaction_id": "5e9d0d1e-bfae-43b3-84d5-1405e8645369",
+        "node_id": "Master_2"
+    },
+    "6776fcee49aac57586ec9509de17f1b8cd465541671a4b0ae14931dd3871c351": {
+        "device_id": "IoT_1",
+        "temperature": 28.74,
+        "timestamp": "2024-06-27T11:41:11.861784",
+        "transaction_id": "a30ea9bd-e185-41b7-b561-57543de61327",
+        "node_id": "Master_2"
+    },
+    "7fd5592cb6a6ae456353bb43eefa2344a19d2bf2f572724f44f863a976ac3e4f": {
+        "device_id": "IoT_3",
+        "temperature": 18.19,
+        "timestamp": "2024-06-27T11:41:16.256305",
+        "transaction_id": "8d7e703b-16b9-45bf-b882-4e9f5a7af77a",
+        "node_id": "Master_2"
+    },
+    "b532b7f4a2e42ccebf82669c1823072a45fc23fa439161bca8ceec917e237985": {
+        "device_id": "IoT_3",
+        "temperature": 14.96,
+        "timestamp": "2024-06-27T11:41:19.273685",
+        "transaction_id": "08713729-3ba7-4d11-95e8-5a0c0528dc75",
+        "node_id": "Master_2"
+    },
+    "3bfde4f7422faafb5752358d95b587b248b889f31c51c8bb240d75ad270a565a": {
+        "device_id": "IoT_3",
+        "temperature": 22.15,
+        "timestamp": "2024-06-27T11:41:22.278330",
+        "transaction_id": "dab994c9-4bd3-4dc0-9021-58d47d750221",
+        "node_id": "Master_2"
+    },
+    "a5431d4acc3f4b33559aedc59a1db4a6ff3700c06361ad8619039f48e2b9e348": {
+        "device_id": "IoT_3",
+        "temperature": 31.76,
+        "timestamp": "2024-06-27T11:41:25.293374",
+        "transaction_id": "36552a39-9140-49de-94a4-5f76c73b1f5d",
+        "node_id": "Master_2"
+    },
+    "36e2c66d52afabe9f168689bae652ae80207e6ef0d4e59a09f57fe31961cd96f": {
+        "device_id": "IoT_3",
+        "temperature": 33.0,
+        "timestamp": "2024-06-27T11:41:28.297442",
+        "transaction_id": "7e3c5f15-2852-4830-b38b-066ed423a095",
+        "node_id": "Master_2"
+    },
+    "574ce6b874cdd0d5ed93b5997e75ae957fa86b810772cace45dcc8d4735cff5c": {
+        "device_id": "IoT_3",
+        "temperature": 21.75,
+        "timestamp": "2024-06-27T11:41:31.299423",
+        "transaction_id": "4b4f6d8d-69ec-4915-a374-05fd092a50e1",
+        "node_id": "Master_2"
+    },
+    "5e1623ff70710fd205961913a8a96f37f9a15b37047800fdb21fe90976abbb6b": {
+        "device_id": "IoT_3",
+        "temperature": 15.3,
+        "timestamp": "2024-06-27T11:41:31.777756",
+        "transaction_id": "8dfcbd3d-0f42-4e5a-9941-b3ab965d39cf",
+        "node_id": "Master_2"
+    },
+    "7d0a45ac13688bc6d164c92991ea530d33bd625b9a10ddeb0006052e1a7d6d95": {
+        "device_id": "IoT_1",
+        "temperature": 16.97,
+        "timestamp": "2024-06-27T11:41:32.896441",
+        "transaction_id": "ad52b47c-ab87-4148-bd6c-44debe0324a1",
+        "node_id": "Master_2"
+    },
+    "8c4a6d6a3d5e3ca7e194f28bcce07100957247bb96a134ab2fea1c25c4319cca": {
+        "device_id": "IoT_3",
+        "temperature": 12.36,
+        "timestamp": "2024-06-27T11:41:34.308112",
+        "transaction_id": "30dcb836-fafe-4544-8c3d-40e89ff5f828",
+        "node_id": "Master_2"
+    },
+    "e93f2d24a006df1b0679c0a53aba7e5c5fd443b028d3b4e6d80abfadcdbbb4fd": {
+        "device_id": "IoT_1",
+        "temperature": 27.96,
+        "timestamp": "2024-06-27T11:41:35.904399",
+        "transaction_id": "2973caa5-cfe5-4b99-aa0d-b5f46e3ab7a8",
+        "node_id": "Master_2"
+    },
+    "19c61b9b95121b66dcd24fadeee823ee59e1a0db2ea4edee9deec80e9312f3ee": {
+        "device_id": "IoT_3",
+        "temperature": 16.14,
+        "timestamp": "2024-06-27T11:41:36.786890",
+        "transaction_id": "9a69f0d1-e60b-4200-8f02-0800786daa98",
+        "node_id": "Master_2"
+    },
+    "ecfbb6ffc2921db362fbb29290f669bfdc83718e68469e21f575ee72846f2d28": {
+        "device_id": "IoT_3",
+        "temperature": 23.1,
+        "timestamp": "2024-06-27T11:41:37.331045",
+        "transaction_id": "a2e7836d-4bad-4539-b626-413b378e9dd9",
+        "node_id": "Master_2"
+    },
+    "d3d4ff5780e4edb0a3bcc6175e4cd5b5acf58e91a32b5728ad9d938f4505c702": {
+        "device_id": "IoT_1",
+        "temperature": 17.86,
+        "timestamp": "2024-06-27T11:41:38.908887",
+        "transaction_id": "c8d63a19-ec8b-4813-8cf8-6b9cffe861f4",
+        "node_id": "Master_2"
+    },
+    "740089cac1de96cd34f87ff9d72c91bd8f4769ae061380a620766552953bc2a0": {
+        "device_id": "IoT_3",
+        "temperature": 13.58,
+        "timestamp": "2024-06-27T11:41:40.336252",
+        "transaction_id": "ab12a0eb-0469-463f-9437-183a20e1ac96",
+        "node_id": "Master_2"
+    },
+    "5c79d36b387a29ea2d07e44c5aa196595ff6c286d889414069b7161d41b641b3": {
+        "device_id": "IoT_3",
+        "temperature": 31.21,
+        "timestamp": "2024-06-27T11:41:41.801701",
+        "transaction_id": "648d013e-13bc-49a4-b506-b1cc173baa13",
+        "node_id": "Master_2"
+    },
+    "cfe02b4b091b42eeff49ed5564f8d4898b3938120ba41ac8d9c3e1931a3cc42a": {
+        "device_id": "IoT_1",
+        "temperature": 19.02,
+        "timestamp": "2024-06-27T11:41:41.911733",
+        "transaction_id": "b2753888-bdca-4d53-8514-2e537edcaadc",
+        "node_id": "Master_2"
+    },
+    "b6a3825e8daa1188eb4c75ccf334385d0becb7bd9cbfaa5d37fa9a44bd412b8f": {
+        "device_id": "IoT_3",
+        "temperature": 15.78,
+        "timestamp": "2024-06-27T11:41:43.339600",
+        "transaction_id": "866bc697-417a-48ba-8656-b8338b977118",
+        "node_id": "Master_2"
+    },
+    "7ffdd70f0af11b8e090c689c71e593aae5c5664d4de0831039d8da30f78257d3": {
+        "device_id": "IoT_1",
+        "temperature": 31.98,
+        "timestamp": "2024-06-27T11:41:44.919646",
+        "transaction_id": "41ea2bca-c07a-4b20-9b68-78a36afc6bee",
+        "node_id": "Master_2"
+    },
+    "91ce4b9bd4a00143a25a8d20e8153e1b37822211eeec4fbc6ccacae0580c06fa": {
+        "device_id": "IoT_3",
+        "temperature": 27.87,
+        "timestamp": "2024-06-27T11:41:46.349974",
+        "transaction_id": "f943bc69-22b8-46d1-801c-7d0f79df8a96",
+        "node_id": "Master_2"
+    },
+    "f4e4d540d65e43c5fa1cec3896e8dea4c35fccd8d3f7eee245e68227a621fd22": {
+        "device_id": "IoT_3",
+        "temperature": 15.42,
+        "timestamp": "2024-06-27T11:41:46.810077",
+        "transaction_id": "1a8ba02c-3bb3-492f-960c-ea43f206fbb3",
+        "node_id": "Master_2"
+    },
+    "0d0bd887496a7da90d88d86ddb4d1a37efb9d54481631e570e1f77dbb1fb8bb3": {
+        "device_id": "IoT_1",
+        "temperature": 14.8,
+        "timestamp": "2024-06-27T11:42:05.954956",
+        "transaction_id": "43cf74d0-4a06-44f7-bdbe-5cbc87c6bea9",
+        "node_id": "Master_2"
+    },
+    "0d6fe85310f8cff24173a86e5c44defcd933d9c05b2b7f377aedff8ee148a7c4": {
+        "device_id": "IoT_3",
+        "temperature": 11.02,
+        "timestamp": "2024-06-27T11:42:06.838574",
+        "transaction_id": "c0b70223-93b0-44c1-87c0-8769e0a3c366",
+        "node_id": "Master_2"
+    },
+    "868c2c0703170b08675f98db369fcfc4c1e00ad5e4d4a732db055d5452318733": {
+        "device_id": "IoT_3",
+        "temperature": 13.13,
+        "timestamp": "2024-06-27T11:42:07.407048",
+        "transaction_id": "774aeb8b-b52b-4dc5-8686-b0050292dc57",
+        "node_id": "Master_2"
+    },
+    "af101e4f3807508569854cf14f67bf0c14c19e9f6a171cb13d9c09c5f067a256": {
+        "device_id": "IoT_1",
+        "temperature": 30.25,
+        "timestamp": "2024-06-27T11:42:08.959018",
+        "transaction_id": "52b0bc5a-ca0c-47a2-a1b2-19bb91e426fc",
+        "node_id": "Master_2"
+    },
+    "eeb52e3055137a4bdf4440b0bc34755b8005b95a5d11653f487ae57e0d5cbf9c": {
+        "device_id": "IoT_3",
+        "temperature": 13.64,
+        "timestamp": "2024-06-27T11:42:10.415801",
+        "transaction_id": "ec5419ed-df52-4a17-95bc-27f623dd0658",
+        "node_id": "Master_2"
+    },
+    "1fc225da245e0a1589ac0d50410cfa0a7deaa5e5aae8df29ad14c6610312acb2": {
+        "device_id": "IoT_3",
+        "temperature": 14.28,
+        "timestamp": "2024-06-27T11:42:11.845913",
+        "transaction_id": "802e0c79-e69e-4619-9bd7-cbe11f94ba2a",
+        "node_id": "Master_2"
+    },
+    "e0135b3708e666c4e30777e1f113c1473b4d020bd1cfca5d24f9c82f2e55d7e7": {
+        "device_id": "IoT_1",
+        "temperature": 22.59,
+        "timestamp": "2024-06-27T11:42:11.960361",
+        "transaction_id": "dd628ea4-eb3c-470f-b342-b43a5bea3ab3",
+        "node_id": "Master_2"
+    },
+    "0a812aaa9fa8ac49de2917caa33ae25c805c8990bee88d85dd3a3daa7cc838e6": {
+        "device_id": "IoT_3",
+        "temperature": 29.68,
+        "timestamp": "2024-06-27T11:42:13.420437",
+        "transaction_id": "0904c3a5-175e-4975-aea6-f0e136a74423",
+        "node_id": "Master_2"
+    },
+    "c6deeb6e4d56e5f8d1f56e88e2628aef6d92b79b3b9bf46182d077a3c98c36dd": {
+        "device_id": "IoT_1",
+        "temperature": 34.8,
+        "timestamp": "2024-06-27T11:42:14.985170",
+        "transaction_id": "bb045786-7690-4297-8d86-784e313bfba4",
+        "node_id": "Master_2"
+    },
+    "801fb9bc18848692a6ae772f90e78c43f0ef13e7a7e08159268ec407a7bb1bef": {
+        "device_id": "IoT_3",
+        "temperature": 32.93,
+        "timestamp": "2024-06-27T11:42:16.422679",
+        "transaction_id": "8b31324e-792a-4542-bca1-3521e5ff4b7f",
+        "node_id": "Master_2"
+    },
+    "7fbd078ed8cb710cb2e40c61b0944154f77233acc3e3bc0fbfb30cc24d7b4294": {
+        "device_id": "IoT_3",
+        "temperature": 25.42,
+        "timestamp": "2024-06-27T11:42:16.865376",
+        "transaction_id": "e985f41d-8d4a-4527-b721-33af5113e7e5",
+        "node_id": "Master_2"
+    },
+    "f7153fc913bab1102d82a363082466911036b1958cfd80417f92f0956819439d": {
+        "device_id": "IoT_1",
+        "temperature": 32.96,
+        "timestamp": "2024-06-27T11:42:18.003294",
+        "transaction_id": "33d3b729-5b5b-4f63-a915-003b58b76679",
+        "node_id": "Master_2"
+    },
+    "5e8b109859f093f2f31b579143e6478c4fb51d5b97171505dd09494ab84de4df": {
+        "device_id": "IoT_3",
+        "temperature": 15.07,
+        "timestamp": "2024-06-27T11:42:19.432744",
+        "transaction_id": "37bfbc36-52a3-4166-a87e-1b5f3d4fe691",
+        "node_id": "Master_2"
+    },
+    "57d3f98703743bbed21b6aab2db486209a28e80f4d3714301c8d98dda93b0e32": {
+        "device_id": "IoT_1",
+        "temperature": 19.1,
+        "timestamp": "2024-06-27T11:42:21.005094",
+        "transaction_id": "e6906c74-1eeb-48bf-a5bf-ad2acf429db9",
+        "node_id": "Master_2"
+    },
+    "925c1528e97be861f8b033d52021220bad23aa0166e08f484765591a0bd6ef30": {
+        "device_id": "IoT_3",
+        "temperature": 29.45,
+        "timestamp": "2024-06-27T11:42:21.870699",
+        "transaction_id": "ec081f20-5943-4796-a685-f896cb93a8bc",
+        "node_id": "Master_2"
+    },
+    "26a4651fd14e7926613ad7870f95961c86b7372247fd80c81c165780a5756876": {
+        "device_id": "IoT_3",
+        "temperature": 15.67,
+        "timestamp": "2024-06-27T11:42:22.437913",
+        "transaction_id": "3b719551-7ab8-4a71-9062-c354341a8d28",
+        "node_id": "Master_2"
+    },
+    "44f33b134b0eadb27adf8b43fa1ff11d01eefbc4083795bfc3edeffd833650a0": {
+        "device_id": "IoT_1",
+        "temperature": 18.49,
+        "timestamp": "2024-06-27T11:42:24.008768",
+        "transaction_id": "7dd0fa21-18a2-45ad-a540-fceacb09c468",
+        "node_id": "Master_2"
+    },
+    "4a3dcfdc7d8140d3feb906490575b2214cb94682c2617f342fb990842ec3ae32": {
+        "device_id": "IoT_3",
+        "temperature": 23.49,
+        "timestamp": "2024-06-27T11:42:25.445544",
+        "transaction_id": "b5a090bf-0bc4-4fab-80dc-368288487b09",
+        "node_id": "Master_2"
+    },
+    "09905b7286abecb71e5c008f308ff1a1cc4cdd8f019a62f2257829a13a61c554": {
+        "device_id": "IoT_3",
+        "temperature": 33.96,
+        "timestamp": "2024-06-27T11:42:26.885803",
+        "transaction_id": "db79f865-4891-49c0-96bc-ad3be9dda615",
+        "node_id": "Master_2"
+    },
+    "1c19b610d73f5e0e42c2816bb2eb9619b3f78d4a91b0cde2f027a6ff030059f1": {
+        "device_id": "IoT_1",
+        "temperature": 24.8,
+        "timestamp": "2024-06-27T11:42:27.011700",
+        "transaction_id": "0da9a154-dd6a-4fae-ac9c-2b8bccb9c1f0",
+        "node_id": "Master_2"
+    },
+    "ad8208663271148a04f58288bc8e862e13b7389d207ff2d2e4d7e267abe0c308": {
+        "device_id": "IoT_3",
+        "temperature": 21.52,
+        "timestamp": "2024-06-27T11:42:28.450090",
+        "transaction_id": "b6060546-0599-44c8-aea5-5eeb0dcf3358",
+        "node_id": "Master_2"
+    },
+    "056214c29b1a5dc975b9335680d484db24e4404ae69ef9c4760d7fd40d420c9f": {
+        "device_id": "IoT_1",
+        "temperature": 19.07,
+        "timestamp": "2024-06-27T11:42:30.014072",
+        "transaction_id": "6d167f60-6273-42f3-a885-eab47649f605",
+        "node_id": "Master_2"
+    },
+    "6de0697659e30836d62138d6d3ec1681511970ff7be8e945fde3ac5055851bef": {
+        "device_id": "IoT_3",
+        "temperature": 13.57,
+        "timestamp": "2024-06-27T11:42:31.454553",
+        "transaction_id": "6616ac0f-76e6-4ff2-a51b-aba1f3618a10",
+        "node_id": "Master_2"
+    },
+    "98049749939c1feb322d4c9a05f5615354a1b52020124443c55ad21d461f9096": {
+        "device_id": "IoT_3",
+        "temperature": 15.97,
+        "timestamp": "2024-06-27T11:42:31.888322",
+        "transaction_id": "1668ff9a-497d-4bc3-8ea6-d623ec2d5fb4",
+        "node_id": "Master_2"
+    },
+    "707599c4c0d7624e9eb966439795144102e260daae723660caa654cd61b019cc": {
+        "device_id": "IoT_1",
+        "temperature": 19.35,
+        "timestamp": "2024-06-27T11:42:33.020859",
+        "transaction_id": "53b66ea1-5e27-4aba-b4cb-2e7eec205619",
+        "node_id": "Master_2"
+    },
+    "a0d67c17b2d70f3a1b678c0381148b97390109df7e7eb43c3cd5953b8873e4a4": {
+        "device_id": "IoT_3",
+        "temperature": 10.26,
+        "timestamp": "2024-06-27T11:42:34.458556",
+        "transaction_id": "8171ff0a-c820-4f52-a88c-a9b2eb407eb5",
+        "node_id": "Master_2"
+    },
+    "8b08f49d5fa41a6b9dd8a36d82f1d72304d2173c6d61e2696abd54f64490934e": {
+        "device_id": "IoT_1",
+        "temperature": 22.2,
+        "timestamp": "2024-06-27T11:42:36.031663",
+        "transaction_id": "f4735d00-6fef-41e7-9607-7ccf6bc74a91",
+        "node_id": "Master_2"
+    }
+}

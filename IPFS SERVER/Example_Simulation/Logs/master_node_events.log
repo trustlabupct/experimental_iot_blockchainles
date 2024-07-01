@@ -1,0 +1,570 @@
+2024-06-26 10:53:15,148 - Node Joined - Node ID: node_002
+2024-06-26 10:53:16,029 - Node Joined - Node ID: node_003
+2024-06-26 10:53:17,360 - Node Joined - Node ID: node_004
+2024-06-26 10:53:18,172 - Node Joined - Node ID: node_005
+2024-06-26 10:53:19,546 - Node Joined - Node ID: node_006
+2024-06-26 10:53:21,175 - Node Joined - Node ID: node_007
+2024-06-26 10:53:22,734 - Node Joined - Node ID: node_008
+2024-06-26 10:53:32,427 - Current Reputation - Node: node_001, Reputation: 12
+2024-06-26 10:53:32,437 - Current Reputation - Node: node_002, Reputation: 10
+2024-06-26 10:53:32,438 - Current Reputation - Node: node_003, Reputation: 10
+2024-06-26 10:53:32,438 - Current Reputation - Node: node_004, Reputation: 10
+2024-06-26 10:53:32,438 - Current Reputation - Node: node_005, Reputation: 10
+2024-06-26 10:53:32,438 - Current Reputation - Node: node_006, Reputation: 10
+2024-06-26 10:53:32,438 - Current Reputation - Node: node_007, Reputation: 10
+2024-06-26 10:53:32,438 - Current Reputation - Node: node_008, Reputation: 10
+2024-06-26 10:53:32,438 - Authority Change - New Authority: node_001
+2024-06-26 10:53:34,345 - Current Reputation - Node: node_001, Reputation: 12.1
+2024-06-26 10:53:34,349 - Current Reputation - Node: node_002, Reputation: 10
+2024-06-26 10:53:34,349 - Current Reputation - Node: node_003, Reputation: 10
+2024-06-26 10:53:34,349 - Current Reputation - Node: node_004, Reputation: 10
+2024-06-26 10:53:34,349 - Current Reputation - Node: node_005, Reputation: 10
+2024-06-26 10:53:34,349 - Current Reputation - Node: node_006, Reputation: 10
+2024-06-26 10:53:34,349 - Current Reputation - Node: node_007, Reputation: 10
+2024-06-26 10:53:34,349 - Current Reputation - Node: node_008, Reputation: 10
+2024-06-26 10:53:34,349 - Authority Change - New Authority: node_001
+2024-06-26 10:53:44,482 - Current Reputation - Node: node_001, Reputation: 14.1
+2024-06-26 10:53:44,483 - Current Reputation - Node: node_002, Reputation: 16
+2024-06-26 10:53:44,483 - Current Reputation - Node: node_003, Reputation: 18.900000000000013
+2024-06-26 10:53:44,483 - Current Reputation - Node: node_004, Reputation: 16
+2024-06-26 10:53:44,483 - Current Reputation - Node: node_005, Reputation: 14
+2024-06-26 10:53:44,483 - Current Reputation - Node: node_006, Reputation: 12
+2024-06-26 10:53:44,483 - Current Reputation - Node: node_007, Reputation: 10
+2024-06-26 10:53:44,483 - Current Reputation - Node: node_008, Reputation: 10
+2024-06-26 10:53:44,483 - Authority Change - New Authority: node_003
+2024-06-26 10:53:44,483 - Authority Change - New Authority: node_003
+2024-06-26 10:53:58,480 - Current Reputation - Node: node_001, Reputation: 16.1
+2024-06-26 10:53:58,488 - Current Reputation - Node: node_002, Reputation: 18
+2024-06-26 10:53:58,489 - Current Reputation - Node: node_003, Reputation: 26.500000000000036
+2024-06-26 10:53:58,489 - Current Reputation - Node: node_004, Reputation: 26
+2024-06-26 10:53:58,489 - Current Reputation - Node: node_005, Reputation: 16
+2024-06-26 10:53:58,489 - Current Reputation - Node: node_006, Reputation: 14
+2024-06-26 10:53:58,489 - Current Reputation - Node: node_007, Reputation: 18
+2024-06-26 10:53:58,489 - Current Reputation - Node: node_008, Reputation: 16
+2024-06-26 10:53:58,489 - Authority Change - New Authority: node_003
+2024-06-26 10:53:58,489 - Authority Change - New Authority: node_003
+2024-06-26 10:54:01,282 - Current Reputation - Node: node_001, Reputation: 18.1
+2024-06-26 10:54:01,282 - Current Reputation - Node: node_002, Reputation: 22
+2024-06-26 10:54:01,282 - Current Reputation - Node: node_003, Reputation: 28.70000000000004
+2024-06-26 10:54:01,282 - Current Reputation - Node: node_004, Reputation: 26
+2024-06-26 10:54:01,282 - Current Reputation - Node: node_005, Reputation: 16
+2024-06-26 10:54:01,282 - Current Reputation - Node: node_006, Reputation: 16
+2024-06-26 10:54:01,283 - Current Reputation - Node: node_007, Reputation: 18
+2024-06-26 10:54:01,283 - Current Reputation - Node: node_008, Reputation: 16
+2024-06-26 10:54:01,283 - Authority Change - New Authority: node_003
+2024-06-26 10:54:01,283 - Authority Change - New Authority: node_003
+2024-06-26 10:54:02,348 - Current Reputation - Node: node_001, Reputation: 20.1
+2024-06-26 10:54:02,351 - Current Reputation - Node: node_002, Reputation: 24
+2024-06-26 10:54:02,367 - Current Reputation - Node: node_003, Reputation: 28.90000000000004
+2024-06-26 10:54:02,379 - Current Reputation - Node: node_004, Reputation: 26
+2024-06-26 10:54:02,384 - Current Reputation - Node: node_005, Reputation: 16
+2024-06-26 10:54:02,384 - Current Reputation - Node: node_006, Reputation: 16
+2024-06-26 10:54:02,384 - Current Reputation - Node: node_007, Reputation: 18
+2024-06-26 10:54:02,384 - Current Reputation - Node: node_008, Reputation: 18
+2024-06-26 10:54:02,384 - Authority Change - New Authority: node_003
+2024-06-26 10:54:02,391 - Authority Change - New Authority: node_003
+2024-06-26 10:54:10,031 - Current Reputation - Node: node_001, Reputation: 22.1
+2024-06-26 10:54:10,034 - Current Reputation - Node: node_002, Reputation: 30
+2024-06-26 10:54:10,034 - Current Reputation - Node: node_003, Reputation: 29.40000000000005
+2024-06-26 10:54:10,034 - Current Reputation - Node: node_004, Reputation: 34.50000000000001
+2024-06-26 10:54:10,034 - Current Reputation - Node: node_005, Reputation: 16
+2024-06-26 10:54:10,034 - Current Reputation - Node: node_006, Reputation: 18
+2024-06-26 10:54:10,034 - Current Reputation - Node: node_007, Reputation: 18
+2024-06-26 10:54:10,034 - Current Reputation - Node: node_008, Reputation: 22
+2024-06-26 10:54:10,034 - Authority Change - New Authority: node_004
+2024-06-26 10:54:10,034 - Authority Change - New Authority: node_004
+2024-06-26 10:54:17,611 - Current Reputation - Node: node_001, Reputation: 24.1
+2024-06-26 10:54:17,611 - Current Reputation - Node: node_002, Reputation: 32
+2024-06-26 10:54:17,611 - Current Reputation - Node: node_003, Reputation: 35.40000000000005
+2024-06-26 10:54:17,611 - Current Reputation - Node: node_004, Reputation: 35.700000000000024
+2024-06-26 10:54:17,611 - Current Reputation - Node: node_005, Reputation: 20
+2024-06-26 10:54:17,611 - Current Reputation - Node: node_006, Reputation: 28
+2024-06-26 10:54:17,611 - Current Reputation - Node: node_007, Reputation: 18
+2024-06-26 10:54:17,611 - Current Reputation - Node: node_008, Reputation: 22
+2024-06-26 10:54:17,611 - Authority Change - New Authority: node_004
+2024-06-26 10:54:17,611 - Authority Change - New Authority: node_004
+2024-06-26 10:54:25,635 - Current Reputation - Node: node_001, Reputation: 26.1
+2024-06-26 10:54:25,640 - Current Reputation - Node: node_002, Reputation: 32
+2024-06-26 10:54:25,640 - Current Reputation - Node: node_003, Reputation: 35.40000000000005
+2024-06-26 10:54:25,640 - Current Reputation - Node: node_004, Reputation: 52.20000000000003
+2024-06-26 10:54:25,640 - Current Reputation - Node: node_005, Reputation: 20
+2024-06-26 10:54:25,640 - Current Reputation - Node: node_006, Reputation: 32
+2024-06-26 10:54:25,640 - Current Reputation - Node: node_007, Reputation: 22
+2024-06-26 10:54:25,640 - Current Reputation - Node: node_008, Reputation: 22
+2024-06-26 10:54:25,640 - Authority Change - New Authority: node_004
+2024-06-26 10:54:25,640 - Authority Change - New Authority: node_004
+2024-06-26 10:54:34,619 - Current Reputation - Node: node_001, Reputation: 28.1
+2024-06-26 10:54:34,622 - Current Reputation - Node: node_002, Reputation: 36
+2024-06-26 10:54:34,622 - Current Reputation - Node: node_003, Reputation: 37.40000000000005
+2024-06-26 10:54:34,622 - Current Reputation - Node: node_004, Reputation: 53.40000000000005
+2024-06-26 10:54:34,622 - Current Reputation - Node: node_005, Reputation: 20
+2024-06-26 10:54:34,622 - Current Reputation - Node: node_006, Reputation: 38
+2024-06-26 10:54:34,622 - Current Reputation - Node: node_007, Reputation: 30
+2024-06-26 10:54:34,622 - Current Reputation - Node: node_008, Reputation: 24
+2024-06-26 10:54:34,622 - Authority Change - New Authority: node_004
+2024-06-26 10:54:34,622 - Authority Change - New Authority: node_004
+2024-06-26 10:54:40,861 - Current Reputation - Node: node_001, Reputation: 30.1
+2024-06-26 10:54:40,869 - Current Reputation - Node: node_002, Reputation: 42
+2024-06-26 10:54:40,870 - Current Reputation - Node: node_003, Reputation: 43.40000000000005
+2024-06-26 10:54:40,870 - Current Reputation - Node: node_004, Reputation: 54.40000000000006
+2024-06-26 10:54:40,870 - Current Reputation - Node: node_005, Reputation: 22
+2024-06-26 10:54:40,870 - Current Reputation - Node: node_006, Reputation: 40
+2024-06-26 10:54:40,870 - Current Reputation - Node: node_007, Reputation: 32
+2024-06-26 10:54:40,870 - Current Reputation - Node: node_008, Reputation: 28
+2024-06-26 10:54:40,870 - Authority Change - New Authority: node_004
+2024-06-26 10:54:40,877 - Authority Change - New Authority: node_004
+2024-06-26 10:54:49,704 - Current Reputation - Node: node_001, Reputation: 32.1
+2024-06-26 10:54:49,704 - Current Reputation - Node: node_002, Reputation: 46
+2024-06-26 10:54:49,704 - Current Reputation - Node: node_003, Reputation: 47.40000000000005
+2024-06-26 10:54:49,704 - Current Reputation - Node: node_004, Reputation: 57.80000000000008
+2024-06-26 10:54:49,704 - Current Reputation - Node: node_005, Reputation: 26
+2024-06-26 10:54:49,704 - Current Reputation - Node: node_006, Reputation: 42
+2024-06-26 10:54:49,704 - Current Reputation - Node: node_007, Reputation: 32
+2024-06-26 10:54:49,704 - Current Reputation - Node: node_008, Reputation: 34
+2024-06-26 10:54:49,704 - Authority Change - New Authority: node_004
+2024-06-26 10:54:49,704 - Authority Change - New Authority: node_004
+2024-06-26 10:54:51,451 - Current Reputation - Node: node_001, Reputation: 34.1
+2024-06-26 10:54:51,451 - Current Reputation - Node: node_002, Reputation: 46
+2024-06-26 10:54:51,451 - Current Reputation - Node: node_003, Reputation: 49.40000000000005
+2024-06-26 10:54:51,451 - Current Reputation - Node: node_004, Reputation: 57.900000000000084
+2024-06-26 10:54:51,451 - Current Reputation - Node: node_005, Reputation: 26
+2024-06-26 10:54:51,451 - Current Reputation - Node: node_006, Reputation: 42
+2024-06-26 10:54:51,451 - Current Reputation - Node: node_007, Reputation: 32
+2024-06-26 10:54:51,451 - Current Reputation - Node: node_008, Reputation: 36
+2024-06-26 10:54:51,451 - Authority Change - New Authority: node_004
+2024-06-26 10:54:51,456 - Authority Change - New Authority: node_004
+2024-06-26 10:55:17,640 - Current Reputation - Node: node_001, Reputation: 36.1
+2024-06-26 10:55:17,642 - Current Reputation - Node: node_002, Reputation: 52
+2024-06-26 10:55:17,642 - Current Reputation - Node: node_003, Reputation: 55.40000000000005
+2024-06-26 10:55:17,642 - Current Reputation - Node: node_004, Reputation: 82.80000000000001
+2024-06-26 10:55:17,642 - Current Reputation - Node: node_005, Reputation: 32
+2024-06-26 10:55:17,642 - Current Reputation - Node: node_006, Reputation: 52
+2024-06-26 10:55:17,642 - Current Reputation - Node: node_007, Reputation: 48
+2024-06-26 10:55:17,642 - Current Reputation - Node: node_008, Reputation: 46
+2024-06-26 10:55:17,642 - Authority Change - New Authority: node_004
+2024-06-26 10:55:17,642 - Authority Change - New Authority: node_004
+2024-06-26 10:55:18,895 - Current Reputation - Node: node_001, Reputation: 38.1
+2024-06-26 10:55:18,896 - Current Reputation - Node: node_002, Reputation: 52
+2024-06-26 10:55:18,896 - Current Reputation - Node: node_003, Reputation: 57.40000000000005
+2024-06-26 10:55:18,896 - Current Reputation - Node: node_004, Reputation: 83.29999999999998
+2024-06-26 10:55:18,896 - Current Reputation - Node: node_005, Reputation: 34
+2024-06-26 10:55:18,896 - Current Reputation - Node: node_006, Reputation: 52
+2024-06-26 10:55:18,896 - Current Reputation - Node: node_007, Reputation: 52
+2024-06-26 10:55:18,896 - Current Reputation - Node: node_008, Reputation: 46
+2024-06-26 10:55:18,896 - Authority Change - New Authority: node_004
+2024-06-26 10:55:18,900 - Authority Change - New Authority: node_004
+2024-06-26 10:55:22,651 - Current Reputation - Node: node_001, Reputation: 40.1
+2024-06-26 10:55:22,654 - Current Reputation - Node: node_002, Reputation: 52
+2024-06-26 10:55:22,654 - Current Reputation - Node: node_003, Reputation: 57.40000000000005
+2024-06-26 10:55:22,654 - Current Reputation - Node: node_004, Reputation: 83.79999999999995
+2024-06-26 10:55:22,654 - Current Reputation - Node: node_005, Reputation: 36
+2024-06-26 10:55:22,654 - Current Reputation - Node: node_006, Reputation: 54
+2024-06-26 10:55:22,654 - Current Reputation - Node: node_007, Reputation: 54
+2024-06-26 10:55:22,654 - Current Reputation - Node: node_008, Reputation: 50
+2024-06-26 10:55:22,654 - Authority Change - New Authority: node_004
+2024-06-26 10:55:22,658 - Authority Change - New Authority: node_004
+2024-06-26 10:55:22,892 - Current Reputation - Node: node_001, Reputation: 42.1
+2024-06-26 10:55:22,912 - Current Reputation - Node: node_002, Reputation: 52
+2024-06-26 10:55:22,916 - Current Reputation - Node: node_003, Reputation: 57.40000000000005
+2024-06-26 10:55:22,917 - Current Reputation - Node: node_004, Reputation: 83.79999999999995
+2024-06-26 10:55:22,917 - Current Reputation - Node: node_005, Reputation: 36
+2024-06-26 10:55:22,917 - Current Reputation - Node: node_006, Reputation: 54
+2024-06-26 10:55:22,917 - Current Reputation - Node: node_007, Reputation: 54
+2024-06-26 10:55:22,917 - Current Reputation - Node: node_008, Reputation: 50
+2024-06-26 10:55:22,917 - Authority Change - New Authority: node_004
+2024-06-26 10:55:22,924 - Authority Change - New Authority: node_004
+2024-06-26 10:55:51,441 - Current Reputation - Node: node_001, Reputation: 44.1
+2024-06-26 10:55:51,441 - Current Reputation - Node: node_002, Reputation: 62
+2024-06-26 10:55:51,441 - Current Reputation - Node: node_003, Reputation: 61.40000000000005
+2024-06-26 10:55:51,441 - Current Reputation - Node: node_004, Reputation: 86.5999999999998
+2024-06-26 10:55:51,441 - Current Reputation - Node: node_005, Reputation: 48
+2024-06-26 10:55:51,441 - Current Reputation - Node: node_007, Reputation: 62
+2024-06-26 10:55:51,441 - Current Reputation - Node: node_008, Reputation: 62
+2024-06-26 10:55:51,441 - Authority Change - New Authority: node_004
+2024-06-26 10:56:03,468 - Node Left - Node ID: node_006
+2024-06-26 10:55:51,444 - Authority Change - New Authority: node_004
+2024-06-26 10:55:59,489 - Current Reputation - Node: node_001, Reputation: 46.1
+2024-06-26 10:55:59,513 - Current Reputation - Node: node_002, Reputation: 62
+2024-06-26 10:55:59,513 - Current Reputation - Node: node_003, Reputation: 65.40000000000005
+2024-06-26 10:55:59,513 - Current Reputation - Node: node_004, Reputation: 87.69999999999973
+2024-06-26 10:55:59,513 - Current Reputation - Node: node_005, Reputation: 54
+2024-06-26 10:55:59,513 - Current Reputation - Node: node_007, Reputation: 70
+2024-06-26 10:55:59,513 - Current Reputation - Node: node_008, Reputation: 68
+2024-06-26 10:55:59,513 - Authority Change - New Authority: node_004
+2024-06-26 10:55:59,516 - Authority Change - New Authority: node_004
+2024-06-26 10:56:03,468 - Node Left - Node ID: node_004
+2024-06-26 10:56:03,469 - Authority Change - New Authority: node_007
+2024-06-26 10:56:13,521 - Current Reputation - Node: node_001, Reputation: 48.1
+2024-06-26 10:56:13,535 - Current Reputation - Node: node_002, Reputation: 62
+2024-06-26 10:56:13,535 - Current Reputation - Node: node_003, Reputation: 71.40000000000005
+2024-06-26 10:56:13,535 - Current Reputation - Node: node_005, Reputation: 56
+2024-06-26 10:56:13,535 - Current Reputation - Node: node_007, Reputation: 72
+2024-06-26 10:56:13,535 - Current Reputation - Node: node_008, Reputation: 68
+2024-06-26 10:56:13,535 - Authority Change - New Authority: node_007
+2024-06-26 10:56:13,535 - Authority Change - New Authority: node_007
+2024-06-26 10:56:14,625 - Current Reputation - Node: node_001, Reputation: 50.1
+2024-06-26 10:56:14,625 - Current Reputation - Node: node_002, Reputation: 62
+2024-06-26 10:56:14,625 - Current Reputation - Node: node_003, Reputation: 71.40000000000005
+2024-06-26 10:56:14,625 - Current Reputation - Node: node_005, Reputation: 56
+2024-06-26 10:56:14,625 - Current Reputation - Node: node_007, Reputation: 72.1
+2024-06-26 10:56:14,625 - Current Reputation - Node: node_008, Reputation: 68
+2024-06-26 10:56:14,625 - Authority Change - New Authority: node_007
+2024-06-26 10:56:14,627 - Authority Change - New Authority: node_007
+2024-06-26 10:56:15,534 - Current Reputation - Node: node_001, Reputation: 52.1
+2024-06-26 10:56:15,534 - Current Reputation - Node: node_002, Reputation: 62
+2024-06-26 10:56:15,534 - Current Reputation - Node: node_003, Reputation: 71.40000000000005
+2024-06-26 10:56:15,534 - Current Reputation - Node: node_005, Reputation: 56
+2024-06-26 10:56:15,534 - Current Reputation - Node: node_007, Reputation: 74.19999999999999
+2024-06-26 10:56:15,534 - Current Reputation - Node: node_008, Reputation: 68
+2024-06-26 10:56:15,534 - Authority Change - New Authority: node_007
+2024-06-26 10:56:15,540 - Authority Change - New Authority: node_007
+2024-06-26 10:56:17,836 - Current Reputation - Node: node_001, Reputation: 54.1
+2024-06-26 10:56:17,836 - Current Reputation - Node: node_002, Reputation: 64
+2024-06-26 10:56:17,836 - Current Reputation - Node: node_003, Reputation: 71.40000000000005
+2024-06-26 10:56:17,836 - Current Reputation - Node: node_005, Reputation: 56
+2024-06-26 10:56:17,836 - Current Reputation - Node: node_007, Reputation: 74.39999999999998
+2024-06-26 10:56:17,836 - Current Reputation - Node: node_008, Reputation: 72
+2024-06-26 10:56:17,836 - Authority Change - New Authority: node_007
+2024-06-26 10:56:17,841 - Authority Change - New Authority: node_007
+2024-06-26 10:56:21,564 - Current Reputation - Node: node_001, Reputation: 56.1
+2024-06-26 10:56:21,572 - Current Reputation - Node: node_002, Reputation: 64
+2024-06-26 10:56:21,572 - Current Reputation - Node: node_003, Reputation: 71.40000000000005
+2024-06-26 10:56:21,572 - Current Reputation - Node: node_005, Reputation: 60
+2024-06-26 10:56:21,572 - Current Reputation - Node: node_007, Reputation: 76.89999999999995
+2024-06-26 10:56:21,572 - Current Reputation - Node: node_008, Reputation: 72
+2024-06-26 10:56:21,572 - Authority Change - New Authority: node_007
+2024-06-26 10:56:21,573 - Authority Change - New Authority: node_007
+2024-06-26 10:56:27,824 - Current Reputation - Node: node_001, Reputation: 58.1
+2024-06-26 10:56:27,843 - Current Reputation - Node: node_002, Reputation: 66
+2024-06-26 10:56:27,856 - Current Reputation - Node: node_003, Reputation: 77.40000000000005
+2024-06-26 10:56:27,856 - Current Reputation - Node: node_005, Reputation: 64
+2024-06-26 10:56:27,856 - Current Reputation - Node: node_007, Reputation: 83.59999999999991
+2024-06-26 10:56:27,856 - Current Reputation - Node: node_008, Reputation: 72
+2024-06-26 10:56:27,856 - Authority Change - New Authority: node_007
+2024-06-26 10:56:27,856 - Authority Change - New Authority: node_007
+2024-06-26 10:56:29,616 - Current Reputation - Node: node_001, Reputation: 60.1
+2024-06-26 10:56:29,616 - Current Reputation - Node: node_002, Reputation: 66
+2024-06-26 10:56:29,616 - Current Reputation - Node: node_003, Reputation: 77.40000000000005
+2024-06-26 10:56:29,616 - Current Reputation - Node: node_005, Reputation: 66
+2024-06-26 10:56:29,616 - Current Reputation - Node: node_007, Reputation: 85.89999999999989
+2024-06-26 10:56:29,616 - Current Reputation - Node: node_008, Reputation: 74
+2024-06-26 10:56:29,616 - Authority Change - New Authority: node_007
+2024-06-26 10:56:29,619 - Authority Change - New Authority: node_007
+2024-06-26 10:56:43,691 - Current Reputation - Node: node_001, Reputation: 62.1
+2024-06-26 10:56:43,720 - Current Reputation - Node: node_002, Reputation: 76
+2024-06-26 10:56:43,725 - Current Reputation - Node: node_003, Reputation: 83.40000000000005
+2024-06-26 10:56:43,725 - Current Reputation - Node: node_005, Reputation: 68
+2024-06-26 10:56:43,725 - Current Reputation - Node: node_007, Reputation: 86.99999999999983
+2024-06-26 10:56:43,725 - Current Reputation - Node: node_008, Reputation: 76
+2024-06-26 10:56:43,725 - Authority Change - New Authority: node_007
+2024-06-26 10:56:43,725 - Authority Change - New Authority: node_007
+2024-06-26 10:56:49,743 - Current Reputation - Node: node_001, Reputation: 64.1
+2024-06-26 10:56:49,745 - Current Reputation - Node: node_002, Reputation: 78
+2024-06-26 10:56:49,750 - Current Reputation - Node: node_003, Reputation: 87.40000000000005
+2024-06-26 10:56:49,750 - Current Reputation - Node: node_005, Reputation: 72
+2024-06-26 10:56:49,750 - Current Reputation - Node: node_007, Reputation: 91.5999999999998
+2024-06-26 10:56:49,750 - Current Reputation - Node: node_008, Reputation: 76
+2024-06-26 10:56:49,750 - Authority Change - New Authority: node_007
+2024-06-26 10:56:49,753 - Authority Change - New Authority: node_007
+2024-06-26 10:56:51,623 - Current Reputation - Node: node_001, Reputation: 66.1
+2024-06-26 10:56:51,627 - Current Reputation - Node: node_002, Reputation: 82
+2024-06-26 10:56:51,627 - Current Reputation - Node: node_003, Reputation: 87.40000000000005
+2024-06-26 10:56:51,627 - Current Reputation - Node: node_005, Reputation: 72
+2024-06-26 10:56:51,627 - Current Reputation - Node: node_007, Reputation: 91.89999999999978
+2024-06-26 10:56:51,627 - Current Reputation - Node: node_008, Reputation: 76
+2024-06-26 10:56:51,627 - Authority Change - New Authority: node_007
+2024-06-26 10:56:51,628 - Authority Change - New Authority: node_007
+2024-06-26 10:56:52,372 - Current Reputation - Node: node_001, Reputation: 68.1
+2024-06-26 10:56:52,372 - Current Reputation - Node: node_002, Reputation: 84
+2024-06-26 10:56:52,372 - Current Reputation - Node: node_003, Reputation: 87.40000000000005
+2024-06-26 10:56:52,372 - Current Reputation - Node: node_005, Reputation: 72
+2024-06-26 10:56:52,372 - Current Reputation - Node: node_007, Reputation: 91.99999999999977
+2024-06-26 10:56:52,372 - Current Reputation - Node: node_008, Reputation: 76
+2024-06-26 10:56:52,372 - Authority Change - New Authority: node_007
+2024-06-26 10:56:52,378 - Authority Change - New Authority: node_007
+2024-06-26 10:56:55,838 - Current Reputation - Node: node_001, Reputation: 70.1
+2024-06-26 10:56:55,843 - Current Reputation - Node: node_002, Reputation: 86
+2024-06-26 10:56:55,843 - Current Reputation - Node: node_003, Reputation: 87.40000000000005
+2024-06-26 10:56:55,843 - Current Reputation - Node: node_005, Reputation: 72
+2024-06-26 10:56:55,844 - Current Reputation - Node: node_007, Reputation: 94.39999999999975
+2024-06-26 10:56:55,844 - Current Reputation - Node: node_008, Reputation: 78
+2024-06-26 10:56:55,844 - Authority Change - New Authority: node_007
+2024-06-26 10:56:55,845 - Authority Change - New Authority: node_007
+2024-06-26 10:56:56,230 - Current Reputation - Node: node_001, Reputation: 72.1
+2024-06-26 10:56:56,230 - Current Reputation - Node: node_002, Reputation: 86
+2024-06-26 10:56:56,230 - Current Reputation - Node: node_003, Reputation: 87.40000000000005
+2024-06-26 10:56:56,230 - Current Reputation - Node: node_005, Reputation: 72
+2024-06-26 10:56:56,230 - Current Reputation - Node: node_007, Reputation: 94.39999999999975
+2024-06-26 10:56:56,230 - Current Reputation - Node: node_008, Reputation: 78
+2024-06-26 10:56:56,230 - Authority Change - New Authority: node_007
+2024-06-26 10:56:56,230 - Authority Change - New Authority: node_007
+2024-06-26 10:57:01,357 - Current Reputation - Node: node_001, Reputation: 74.1
+2024-06-26 10:57:01,357 - Current Reputation - Node: node_002, Reputation: 94
+2024-06-26 10:57:01,357 - Current Reputation - Node: node_003, Reputation: 91.40000000000005
+2024-06-26 10:57:01,357 - Current Reputation - Node: node_005, Reputation: 72
+2024-06-26 10:57:01,357 - Current Reputation - Node: node_007, Reputation: 95.3999999999997
+2024-06-26 10:57:01,357 - Current Reputation - Node: node_008, Reputation: 82
+2024-06-26 10:57:01,357 - Authority Change - New Authority: node_007
+2024-06-26 10:57:01,357 - Authority Change - New Authority: node_007
+2024-06-26 10:57:03,719 - Current Reputation - Node: node_001, Reputation: 76.1
+2024-06-26 10:57:03,719 - Current Reputation - Node: node_002, Reputation: 94
+2024-06-26 10:57:03,720 - Current Reputation - Node: node_003, Reputation: 93.40000000000005
+2024-06-26 10:57:03,720 - Current Reputation - Node: node_005, Reputation: 76
+2024-06-26 10:57:03,720 - Current Reputation - Node: node_007, Reputation: 95.69999999999968
+2024-06-26 10:57:03,720 - Current Reputation - Node: node_008, Reputation: 82
+2024-06-26 10:57:03,720 - Authority Change - New Authority: node_007
+2024-06-26 10:57:03,720 - Authority Change - New Authority: node_007
+2024-06-26 10:57:10,380 - Current Reputation - Node: node_001, Reputation: 78.1
+2024-06-26 10:57:10,385 - Current Reputation - Node: node_002, Reputation: 94
+2024-06-26 10:57:10,388 - Current Reputation - Node: node_003, Reputation: 97.40000000000005
+2024-06-26 10:57:10,388 - Current Reputation - Node: node_005, Reputation: 82
+2024-06-26 10:57:10,388 - Current Reputation - Node: node_007, Reputation: 100.49999999999963
+2024-06-26 10:57:10,388 - Current Reputation - Node: node_008, Reputation: 84
+2024-06-26 10:57:10,388 - Authority Change - New Authority: node_007
+2024-06-26 10:57:10,391 - Authority Change - New Authority: node_007
+2024-06-26 10:57:17,838 - Current Reputation - Node: node_001, Reputation: 80.1
+2024-06-26 10:57:17,838 - Current Reputation - Node: node_002, Reputation: 94
+2024-06-26 10:57:17,838 - Current Reputation - Node: node_003, Reputation: 103.80000000000003
+2024-06-26 10:57:17,838 - Current Reputation - Node: node_005, Reputation: 86
+2024-06-26 10:57:17,838 - Current Reputation - Node: node_007, Reputation: 102.89999999999961
+2024-06-26 10:57:17,838 - Current Reputation - Node: node_008, Reputation: 90
+2024-06-26 10:57:17,838 - Authority Change - New Authority: node_003
+2024-06-26 10:57:17,838 - Authority Change - New Authority: node_003
+2024-06-26 10:57:19,930 - Current Reputation - Node: node_001, Reputation: 82.1
+2024-06-26 10:57:19,930 - Current Reputation - Node: node_002, Reputation: 96
+2024-06-26 10:57:19,930 - Current Reputation - Node: node_003, Reputation: 104.3
+2024-06-26 10:57:19,930 - Current Reputation - Node: node_005, Reputation: 90
+2024-06-26 10:57:19,930 - Current Reputation - Node: node_007, Reputation: 102.89999999999961
+2024-06-26 10:57:19,930 - Current Reputation - Node: node_008, Reputation: 94
+2024-06-26 10:57:19,930 - Authority Change - New Authority: node_003
+2024-06-26 10:57:19,930 - Authority Change - New Authority: node_003
+2024-06-26 10:57:22,867 - Current Reputation - Node: node_001, Reputation: 84.1
+2024-06-26 10:57:22,876 - Current Reputation - Node: node_002, Reputation: 96
+2024-06-26 10:57:22,876 - Current Reputation - Node: node_003, Reputation: 104.69999999999997
+2024-06-26 10:57:22,876 - Current Reputation - Node: node_005, Reputation: 96
+2024-06-26 10:57:22,876 - Current Reputation - Node: node_007, Reputation: 102.89999999999961
+2024-06-26 10:57:22,876 - Current Reputation - Node: node_008, Reputation: 94
+2024-06-26 10:57:22,876 - Authority Change - New Authority: node_003
+2024-06-26 10:57:22,883 - Authority Change - New Authority: node_003
+2024-06-26 10:57:26,709 - Node Left - Node ID: node_003
+2024-06-26 10:57:26,731 - Authority Change - New Authority: node_007
+2024-06-26 10:57:37,841 - Current Reputation - Node: node_001, Reputation: 86.1
+2024-06-26 10:57:37,841 - Current Reputation - Node: node_002, Reputation: 96
+2024-06-26 10:57:37,841 - Current Reputation - Node: node_005, Reputation: 102
+2024-06-26 10:57:37,841 - Current Reputation - Node: node_007, Reputation: 102.89999999999961
+2024-06-26 10:57:37,841 - Current Reputation - Node: node_008, Reputation: 96
+2024-06-26 10:57:37,841 - Authority Change - New Authority: node_007
+2024-06-26 10:57:37,841 - Authority Change - New Authority: node_007
+2024-06-26 10:57:38,827 - Current Reputation - Node: node_001, Reputation: 88.1
+2024-06-26 10:57:38,827 - Current Reputation - Node: node_002, Reputation: 96
+2024-06-26 10:57:38,827 - Current Reputation - Node: node_005, Reputation: 106
+2024-06-26 10:57:38,827 - Current Reputation - Node: node_007, Reputation: 104.9999999999996
+2024-06-26 10:57:38,827 - Current Reputation - Node: node_008, Reputation: 96
+2024-06-26 10:57:38,827 - Authority Change - New Authority: node_005
+2024-06-26 10:57:38,827 - Authority Change - New Authority: node_005
+2024-06-26 10:57:41,963 - Current Reputation - Node: node_001, Reputation: 90.1
+2024-06-26 10:57:41,963 - Current Reputation - Node: node_002, Reputation: 98
+2024-06-26 10:57:41,964 - Current Reputation - Node: node_005, Reputation: 108.29999999999998
+2024-06-26 10:57:41,964 - Current Reputation - Node: node_007, Reputation: 106.9999999999996
+2024-06-26 10:57:41,964 - Current Reputation - Node: node_008, Reputation: 98
+2024-06-26 10:57:41,964 - Authority Change - New Authority: node_005
+2024-06-26 10:57:41,964 - Authority Change - New Authority: node_005
+2024-06-26 10:57:44,398 - Current Reputation - Node: node_001, Reputation: 92.1
+2024-06-26 10:57:44,398 - Current Reputation - Node: node_002, Reputation: 98
+2024-06-26 10:57:44,398 - Current Reputation - Node: node_005, Reputation: 112.49999999999997
+2024-06-26 10:57:44,398 - Current Reputation - Node: node_006, Reputation: 58
+2024-06-26 10:57:44,398 - Current Reputation - Node: node_007, Reputation: 106.9999999999996
+2024-06-26 10:57:44,398 - Current Reputation - Node: node_008, Reputation: 98
+2024-06-26 10:57:44,398 - Authority Change - New Authority: node_005
+2024-06-26 10:57:44,398 - Authority Change - New Authority: node_005
+2024-06-26 10:57:47,407 - Current Reputation - Node: node_001, Reputation: 94.1
+2024-06-26 10:57:47,416 - Current Reputation - Node: node_002, Reputation: 98
+2024-06-26 10:57:47,418 - Current Reputation - Node: node_005, Reputation: 112.99999999999994
+2024-06-26 10:57:47,418 - Current Reputation - Node: node_007, Reputation: 110.9999999999996
+2024-06-26 10:57:47,418 - Current Reputation - Node: node_008, Reputation: 100
+2024-06-26 10:57:47,418 - Authority Change - New Authority: node_005
+2024-06-26 10:57:47,421 - Authority Change - New Authority: node_005
+2024-06-26 10:57:48,070 - Current Reputation - Node: node_001, Reputation: 96.1
+2024-06-26 10:57:48,075 - Current Reputation - Node: node_002, Reputation: 98
+2024-06-26 10:57:48,075 - Current Reputation - Node: node_005, Reputation: 112.99999999999994
+2024-06-26 10:57:48,075 - Current Reputation - Node: node_007, Reputation: 110.9999999999996
+2024-06-26 10:57:48,075 - Current Reputation - Node: node_008, Reputation: 102
+2024-06-26 10:57:48,075 - Authority Change - New Authority: node_005
+2024-06-26 10:57:48,075 - Authority Change - New Authority: node_005
+2024-06-26 10:57:52,012 - Current Reputation - Node: node_001, Reputation: 98.1
+2024-06-26 10:57:52,047 - Current Reputation - Node: node_002, Reputation: 102
+2024-06-26 10:57:52,047 - Current Reputation - Node: node_005, Reputation: 115.49999999999991
+2024-06-26 10:57:52,047 - Current Reputation - Node: node_007, Reputation: 112.9999999999996
+2024-06-26 10:57:52,047 - Current Reputation - Node: node_008, Reputation: 102
+2024-06-26 10:57:52,047 - Authority Change - New Authority: node_005
+2024-06-26 10:57:52,047 - Authority Change - New Authority: node_005
+2024-06-26 10:58:05,925 - Node Left - Node ID: node_007
+2024-06-26 10:58:05,925 - Authority Change - New Authority: node_008
+2024-06-26 10:58:30,108 - Current Reputation - Node: node_001, Reputation: 100.1
+2024-06-26 10:58:30,117 - Current Reputation - Node: node_002, Reputation: 112
+2024-06-26 10:58:30,122 - Current Reputation - Node: node_005, Reputation: 126.59999999999985
+2024-06-26 10:58:30,124 - Current Reputation - Node: node_008, Reputation: 130.89999999999995
+2024-06-26 10:58:30,124 - Authority Change - New Authority: node_008
+2024-06-26 10:58:30,124 - Authority Change - New Authority: node_008
+2024-06-26 10:58:33,142 - Current Reputation - Node: node_001, Reputation: 102.1
+2024-06-26 10:58:33,143 - Current Reputation - Node: node_002, Reputation: 114
+2024-06-26 10:58:33,143 - Current Reputation - Node: node_005, Reputation: 132.59999999999985
+2024-06-26 10:58:33,143 - Current Reputation - Node: node_008, Reputation: 131.19999999999993
+2024-06-26 10:58:33,143 - Authority Change - New Authority: node_005
+2024-06-26 10:58:33,143 - Authority Change - New Authority: node_005
+2024-06-26 10:58:34,952 - Current Reputation - Node: node_001, Reputation: 104.1
+2024-06-26 10:58:34,963 - Current Reputation - Node: node_002, Reputation: 116
+2024-06-26 10:58:34,966 - Current Reputation - Node: node_005, Reputation: 132.69999999999985
+2024-06-26 10:58:34,984 - Current Reputation - Node: node_008, Reputation: 131.19999999999993
+2024-06-26 10:58:34,984 - Authority Change - New Authority: node_005
+2024-06-26 10:58:34,984 - Authority Change - New Authority: node_005
+2024-06-26 10:58:37,907 - Current Reputation - Node: node_001, Reputation: 106.1
+2024-06-26 10:58:37,907 - Current Reputation - Node: node_002, Reputation: 120
+2024-06-26 10:58:37,907 - Current Reputation - Node: node_005, Reputation: 132.99999999999983
+2024-06-26 10:58:37,907 - Current Reputation - Node: node_008, Reputation: 135.29999999999993
+2024-06-26 10:58:37,907 - Authority Change - New Authority: node_008
+2024-06-26 10:58:37,907 - Authority Change - New Authority: node_008
+2024-06-26 10:58:38,167 - Current Reputation - Node: node_001, Reputation: 108.1
+2024-06-26 10:58:38,167 - Current Reputation - Node: node_002, Reputation: 120
+2024-06-26 10:58:38,167 - Current Reputation - Node: node_005, Reputation: 132.99999999999983
+2024-06-26 10:58:38,167 - Current Reputation - Node: node_008, Reputation: 135.29999999999993
+2024-06-26 10:58:38,167 - Authority Change - New Authority: node_008
+2024-06-26 10:58:38,167 - Authority Change - New Authority: node_008
+2024-06-26 10:58:38,167 - Current Reputation - Node: node_001, Reputation: 110.1
+2024-06-26 10:58:38,167 - Current Reputation - Node: node_002, Reputation: 120
+2024-06-26 10:58:38,167 - Current Reputation - Node: node_005, Reputation: 132.99999999999983
+2024-06-26 10:58:38,167 - Current Reputation - Node: node_008, Reputation: 135.29999999999993
+2024-06-26 10:58:38,167 - Authority Change - New Authority: node_008
+2024-06-26 10:58:38,167 - Authority Change - New Authority: node_008
+2024-06-26 10:58:42,185 - Current Reputation - Node: node_001, Reputation: 112.1
+2024-06-26 10:58:42,185 - Current Reputation - Node: node_002, Reputation: 124
+2024-06-26 10:58:42,185 - Current Reputation - Node: node_005, Reputation: 134.99999999999983
+2024-06-26 10:58:42,185 - Current Reputation - Node: node_008, Reputation: 139.9999999999999
+2024-06-26 10:58:42,186 - Authority Change - New Authority: node_008
+2024-06-26 10:58:42,186 - Authority Change - New Authority: node_008
+2024-06-26 10:58:55,969 - Current Reputation - Node: node_001, Reputation: 114.1
+2024-06-26 10:58:55,973 - Current Reputation - Node: node_002, Reputation: 130
+2024-06-26 10:58:55,973 - Current Reputation - Node: node_005, Reputation: 136.99999999999983
+2024-06-26 10:58:55,973 - Current Reputation - Node: node_008, Reputation: 164.39999999999986
+2024-06-26 10:58:55,973 - Authority Change - New Authority: node_008
+2024-06-26 10:58:55,978 - Authority Change - New Authority: node_008
+2024-06-26 10:58:56,708 - Current Reputation - Node: node_001, Reputation: 116.1
+2024-06-26 10:58:56,708 - Current Reputation - Node: node_002, Reputation: 130
+2024-06-26 10:58:56,708 - Current Reputation - Node: node_005, Reputation: 136.99999999999983
+2024-06-26 10:58:56,708 - Current Reputation - Node: node_008, Reputation: 164.39999999999986
+2024-06-26 10:58:56,708 - Authority Change - New Authority: node_008
+2024-06-26 10:58:56,708 - Authority Change - New Authority: node_008
+2024-06-26 10:58:58,292 - Current Reputation - Node: node_001, Reputation: 118.1
+2024-06-26 10:58:58,296 - Current Reputation - Node: node_002, Reputation: 134
+2024-06-26 10:58:58,299 - Current Reputation - Node: node_005, Reputation: 136.99999999999983
+2024-06-26 10:58:58,299 - Current Reputation - Node: node_008, Reputation: 164.69999999999985
+2024-06-26 10:58:58,299 - Authority Change - New Authority: node_008
+2024-06-26 10:58:58,299 - Authority Change - New Authority: node_008
+2024-06-26 10:59:03,242 - Current Reputation - Node: node_001, Reputation: 120.1
+2024-06-26 10:59:03,245 - Current Reputation - Node: node_002, Reputation: 138
+2024-06-26 10:59:03,245 - Current Reputation - Node: node_005, Reputation: 142.99999999999983
+2024-06-26 10:59:03,245 - Current Reputation - Node: node_008, Reputation: 169.2999999999998
+2024-06-26 10:59:03,245 - Authority Change - New Authority: node_008
+2024-06-26 10:59:03,245 - Authority Change - New Authority: node_008
+2024-06-26 10:59:13,279 - Current Reputation - Node: node_001, Reputation: 122.1
+2024-06-26 10:59:13,283 - Current Reputation - Node: node_002, Reputation: 150
+2024-06-26 10:59:13,283 - Current Reputation - Node: node_005, Reputation: 150.99999999999983
+2024-06-26 10:59:13,283 - Current Reputation - Node: node_008, Reputation: 182.49999999999974
+2024-06-26 10:59:13,283 - Authority Change - New Authority: node_008
+2024-06-26 10:59:13,285 - Authority Change - New Authority: node_008
+2024-06-26 10:59:23,304 - Current Reputation - Node: node_001, Reputation: 124.1
+2024-06-26 10:59:23,304 - Current Reputation - Node: node_002, Reputation: 162
+2024-06-26 10:59:23,304 - Current Reputation - Node: node_005, Reputation: 160.99999999999983
+2024-06-26 10:59:23,304 - Current Reputation - Node: node_008, Reputation: 189.59999999999968
+2024-06-26 10:59:23,305 - Authority Change - New Authority: node_008
+2024-06-26 10:59:23,305 - Authority Change - New Authority: node_008
+2024-06-26 10:59:24,002 - Current Reputation - Node: node_001, Reputation: 126.1
+2024-06-26 10:59:24,002 - Current Reputation - Node: node_002, Reputation: 162
+2024-06-26 10:59:24,002 - Current Reputation - Node: node_005, Reputation: 160.99999999999983
+2024-06-26 10:59:24,002 - Current Reputation - Node: node_008, Reputation: 189.79999999999967
+2024-06-26 10:59:24,002 - Authority Change - New Authority: node_008
+2024-06-26 10:59:24,003 - Authority Change - New Authority: node_008
+2024-06-26 10:59:26,834 - Current Reputation - Node: node_001, Reputation: 128.1
+2024-06-26 10:59:26,834 - Current Reputation - Node: node_002, Reputation: 164
+2024-06-26 10:59:26,834 - Current Reputation - Node: node_005, Reputation: 166.99999999999983
+2024-06-26 10:59:26,834 - Current Reputation - Node: node_008, Reputation: 190.19999999999965
+2024-06-26 10:59:26,834 - Authority Change - New Authority: node_008
+2024-06-26 10:59:26,834 - Authority Change - New Authority: node_008
+2024-06-26 10:59:29,838 - Current Reputation - Node: node_001, Reputation: 130.1
+2024-06-26 10:59:29,839 - Current Reputation - Node: node_002, Reputation: 164
+2024-06-26 10:59:29,839 - Current Reputation - Node: node_005, Reputation: 166.99999999999983
+2024-06-26 10:59:29,839 - Current Reputation - Node: node_008, Reputation: 194.39999999999964
+2024-06-26 10:59:29,839 - Authority Change - New Authority: node_008
+2024-06-26 10:59:29,839 - Authority Change - New Authority: node_008
+2024-06-26 10:59:32,844 - Current Reputation - Node: node_001, Reputation: 132.1
+2024-06-26 10:59:32,847 - Current Reputation - Node: node_002, Reputation: 166
+2024-06-26 10:59:32,847 - Current Reputation - Node: node_005, Reputation: 166.99999999999983
+2024-06-26 10:59:32,847 - Current Reputation - Node: node_008, Reputation: 200.49999999999963
+2024-06-26 10:59:32,847 - Authority Change - New Authority: node_008
+2024-06-26 10:59:32,849 - Authority Change - New Authority: node_008
+2024-06-26 10:59:33,315 - Current Reputation - Node: node_001, Reputation: 134.1
+2024-06-26 10:59:33,315 - Current Reputation - Node: node_002, Reputation: 166
+2024-06-26 10:59:33,315 - Current Reputation - Node: node_005, Reputation: 166.99999999999983
+2024-06-26 10:59:33,315 - Current Reputation - Node: node_008, Reputation: 200.69999999999962
+2024-06-26 10:59:33,315 - Authority Change - New Authority: node_008
+2024-06-26 10:59:33,315 - Authority Change - New Authority: node_008
+2024-06-26 10:59:37,948 - Current Reputation - Node: node_001, Reputation: 136.1
+2024-06-26 10:59:37,949 - Current Reputation - Node: node_002, Reputation: 174
+2024-06-26 10:59:37,949 - Current Reputation - Node: node_005, Reputation: 170.99999999999983
+2024-06-26 10:59:37,949 - Current Reputation - Node: node_008, Reputation: 201.39999999999958
+2024-06-26 10:59:37,949 - Authority Change - New Authority: node_008
+2024-06-26 10:59:37,949 - Authority Change - New Authority: node_008
+2024-06-26 10:59:38,335 - Current Reputation - Node: node_001, Reputation: 138.1
+2024-06-26 10:59:38,337 - Current Reputation - Node: node_002, Reputation: 174
+2024-06-26 10:59:38,337 - Current Reputation - Node: node_005, Reputation: 170.99999999999983
+2024-06-26 10:59:38,337 - Current Reputation - Node: node_008, Reputation: 201.49999999999957
+2024-06-26 10:59:38,337 - Authority Change - New Authority: node_008
+2024-06-26 10:59:38,344 - Authority Change - New Authority: node_008
+2024-06-26 10:59:40,260 - Current Reputation - Node: node_001, Reputation: 140.1
+2024-06-26 10:59:40,261 - Current Reputation - Node: node_002, Reputation: 174
+2024-06-26 10:59:40,261 - Current Reputation - Node: node_005, Reputation: 172.99999999999983
+2024-06-26 10:59:40,261 - Current Reputation - Node: node_008, Reputation: 205.69999999999956
+2024-06-26 10:59:40,261 - Authority Change - New Authority: node_008
+2024-06-26 10:59:40,261 - Authority Change - New Authority: node_008
+2024-06-26 10:59:42,583 - Current Reputation - Node: node_001, Reputation: 142.1
+2024-06-26 10:59:42,585 - Current Reputation - Node: node_002, Reputation: 174
+2024-06-26 10:59:42,585 - Current Reputation - Node: node_005, Reputation: 174.99999999999983
+2024-06-26 10:59:42,585 - Current Reputation - Node: node_008, Reputation: 207.89999999999955
+2024-06-26 10:59:42,585 - Authority Change - New Authority: node_008
+2024-06-26 10:59:42,585 - Authority Change - New Authority: node_008
+2024-06-26 10:59:44,593 - Current Reputation - Node: node_001, Reputation: 144.1
+2024-06-26 10:59:44,600 - Current Reputation - Node: node_002, Reputation: 176
+2024-06-26 10:59:44,602 - Current Reputation - Node: node_005, Reputation: 174.99999999999983
+2024-06-26 10:59:44,603 - Current Reputation - Node: node_008, Reputation: 208.19999999999953
+2024-06-26 10:59:44,603 - Authority Change - New Authority: node_008
+2024-06-26 10:59:44,611 - Authority Change - New Authority: node_008
+2024-06-26 10:59:47,876 - Current Reputation - Node: node_001, Reputation: 146.1
+2024-06-26 10:59:47,877 - Current Reputation - Node: node_002, Reputation: 178
+2024-06-26 10:59:47,877 - Current Reputation - Node: node_005, Reputation: 178.99999999999983
+2024-06-26 10:59:47,877 - Current Reputation - Node: node_008, Reputation: 212.49999999999952
+2024-06-26 10:59:47,877 - Authority Change - New Authority: node_008
+2024-06-26 10:59:47,877 - Authority Change - New Authority: node_008
+2024-06-26 10:59:51,857 - Current Reputation - Node: node_001, Reputation: 148.1
+2024-06-26 10:59:51,858 - Current Reputation - Node: node_002, Reputation: 182
+2024-06-26 10:59:51,860 - Current Reputation - Node: node_005, Reputation: 180.99999999999983
+2024-06-26 10:59:51,867 - Current Reputation - Node: node_008, Reputation: 212.9999999999995
+2024-06-26 10:59:51,867 - Authority Change - New Authority: node_008
+2024-06-26 10:59:51,869 - Authority Change - New Authority: node_008
+2024-06-26 10:59:54,196 - Current Reputation - Node: node_001, Reputation: 150.1
+2024-06-26 10:59:54,199 - Current Reputation - Node: node_002, Reputation: 184
+2024-06-26 10:59:54,215 - Current Reputation - Node: node_005, Reputation: 184.99999999999983
+2024-06-26 10:59:54,231 - Current Reputation - Node: node_008, Reputation: 215.29999999999947
+2024-06-26 10:59:54,232 - Authority Change - New Authority: node_008
+2024-06-26 10:59:54,243 - Authority Change - New Authority: node_008
+2024-06-26 10:59:56,928 - Current Reputation - Node: node_001, Reputation: 152.1
+2024-06-26 10:59:56,930 - Current Reputation - Node: node_002, Reputation: 186
+2024-06-26 10:59:56,932 - Current Reputation - Node: node_005, Reputation: 184.99999999999983
+2024-06-26 10:59:56,932 - Current Reputation - Node: node_008, Reputation: 219.49999999999946
+2024-06-26 10:59:56,932 - Authority Change - New Authority: node_008
+2024-06-26 10:59:56,933 - Authority Change - New Authority: node_008
+2024-06-26 10:59:59,089 - Current Reputation - Node: node_001, Reputation: 154.1
+2024-06-26 10:59:59,098 - Current Reputation - Node: node_002, Reputation: 188
+2024-06-26 10:59:59,098 - Current Reputation - Node: node_005, Reputation: 184.99999999999983
+2024-06-26 10:59:59,098 - Current Reputation - Node: node_008, Reputation: 221.69999999999945
+2024-06-26 10:59:59,098 - Authority Change - New Authority: node_008
+2024-06-26 10:59:59,101 - Authority Change - New Authority: node_008

@@ -1,0 +1,479 @@
+2024-06-25 12:59:55,839 - Current Reputation - Node: Master_1, Reputation: 12
+2024-06-25 12:59:55,839 - Current Reputation - Node: Master_2, Reputation: 10
+2024-06-25 12:59:55,839 - Current Reputation - Node: Master_3, Reputation: 16
+2024-06-25 12:59:55,839 - Authority Change - New Authority: Master_3
+2024-06-25 12:59:55,839 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:01,853 - Current Reputation - Node: Master_1, Reputation: 14
+2024-06-25 13:00:01,862 - Current Reputation - Node: Master_2, Reputation: 12
+2024-06-25 13:00:01,862 - Current Reputation - Node: Master_3, Reputation: 22.200000000000003
+2024-06-25 13:00:01,862 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:01,862 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:06,165 - Current Reputation - Node: Master_1, Reputation: 16
+2024-06-25 13:00:06,165 - Current Reputation - Node: Master_2, Reputation: 14
+2024-06-25 13:00:06,165 - Current Reputation - Node: Master_3, Reputation: 26.400000000000006
+2024-06-25 13:00:06,165 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:06,165 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:10,865 - Current Reputation - Node: Master_1, Reputation: 18
+2024-06-25 13:00:10,866 - Current Reputation - Node: Master_2, Reputation: 18
+2024-06-25 13:00:10,866 - Current Reputation - Node: Master_3, Reputation: 28.70000000000001
+2024-06-25 13:00:10,866 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:10,866 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:28,914 - Current Reputation - Node: Master_1, Reputation: 20
+2024-06-25 13:00:28,915 - Current Reputation - Node: Master_2, Reputation: 32
+2024-06-25 13:00:28,915 - Current Reputation - Node: Master_3, Reputation: 43.50000000000002
+2024-06-25 13:00:28,915 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:28,915 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:29,571 - Current Reputation - Node: Master_1, Reputation: 22
+2024-06-25 13:00:29,572 - Current Reputation - Node: Master_2, Reputation: 32
+2024-06-25 13:00:29,572 - Current Reputation - Node: Master_3, Reputation: 43.50000000000002
+2024-06-25 13:00:29,572 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:29,572 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:30,220 - Current Reputation - Node: Master_1, Reputation: 24
+2024-06-25 13:00:30,220 - Current Reputation - Node: Master_2, Reputation: 32
+2024-06-25 13:00:30,225 - Current Reputation - Node: Master_3, Reputation: 43.700000000000024
+2024-06-25 13:00:30,225 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:30,226 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:33,218 - Current Reputation - Node: Master_1, Reputation: 26
+2024-06-25 13:00:33,224 - Current Reputation - Node: Master_2, Reputation: 32
+2024-06-25 13:00:33,224 - Current Reputation - Node: Master_3, Reputation: 45.800000000000026
+2024-06-25 13:00:33,224 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:33,233 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:34,571 - Current Reputation - Node: Master_1, Reputation: 28
+2024-06-25 13:00:34,571 - Current Reputation - Node: Master_2, Reputation: 32
+2024-06-25 13:00:34,571 - Current Reputation - Node: Master_3, Reputation: 45.90000000000003
+2024-06-25 13:00:34,571 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:34,572 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:36,221 - Current Reputation - Node: Master_1, Reputation: 30
+2024-06-25 13:00:36,221 - Current Reputation - Node: Master_2, Reputation: 34
+2024-06-25 13:00:36,221 - Current Reputation - Node: Master_3, Reputation: 46.10000000000003
+2024-06-25 13:00:36,221 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:36,221 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:39,230 - Current Reputation - Node: Master_1, Reputation: 32
+2024-06-25 13:00:39,231 - Current Reputation - Node: Master_2, Reputation: 34
+2024-06-25 13:00:39,241 - Current Reputation - Node: Master_3, Reputation: 48.20000000000003
+2024-06-25 13:00:39,249 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:39,257 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:39,578 - Current Reputation - Node: Master_1, Reputation: 34
+2024-06-25 13:00:39,579 - Current Reputation - Node: Master_2, Reputation: 34
+2024-06-25 13:00:39,579 - Current Reputation - Node: Master_3, Reputation: 48.20000000000003
+2024-06-25 13:00:39,579 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:39,579 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:42,236 - Current Reputation - Node: Master_1, Reputation: 36
+2024-06-25 13:00:42,236 - Current Reputation - Node: Master_2, Reputation: 36
+2024-06-25 13:00:42,236 - Current Reputation - Node: Master_3, Reputation: 48.500000000000036
+2024-06-25 13:00:42,236 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:42,236 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:45,244 - Current Reputation - Node: Master_1, Reputation: 38
+2024-06-25 13:00:45,244 - Current Reputation - Node: Master_2, Reputation: 38
+2024-06-25 13:00:45,244 - Current Reputation - Node: Master_3, Reputation: 50.70000000000004
+2024-06-25 13:00:45,244 - Authority Change - New Authority: Master_3
+2024-06-25 13:00:45,244 - Authority Change - New Authority: Master_3
+2024-06-25 13:01:03,284 - Current Reputation - Node: Master_1, Reputation: 40
+2024-06-25 13:01:03,284 - Current Reputation - Node: Master_2, Reputation: 60.300000000000004
+2024-06-25 13:01:03,284 - Current Reputation - Node: Master_3, Reputation: 57.40000000000005
+2024-06-25 13:01:03,284 - Authority Change - New Authority: Master_2
+2024-06-25 13:01:03,292 - Authority Change - New Authority: Master_2
+2024-06-25 13:01:06,303 - Current Reputation - Node: Master_1, Reputation: 42
+2024-06-25 13:01:06,304 - Current Reputation - Node: Master_2, Reputation: 60.50000000000001
+2024-06-25 13:01:06,304 - Current Reputation - Node: Master_3, Reputation: 61.40000000000005
+2024-06-25 13:01:06,304 - Authority Change - New Authority: Master_3
+2024-06-25 13:01:06,304 - Authority Change - New Authority: Master_3
+2024-06-25 13:01:09,315 - Current Reputation - Node: Master_1, Reputation: 44
+2024-06-25 13:01:09,315 - Current Reputation - Node: Master_2, Reputation: 62.50000000000001
+2024-06-25 13:01:09,315 - Current Reputation - Node: Master_3, Reputation: 61.50000000000005
+2024-06-25 13:01:09,315 - Authority Change - New Authority: Master_2
+2024-06-25 13:01:09,315 - Authority Change - New Authority: Master_2
+2024-06-25 13:01:14,636 - Current Reputation - Node: Master_1, Reputation: 46
+2024-06-25 13:01:14,637 - Current Reputation - Node: Master_2, Reputation: 64.7
+2024-06-25 13:01:14,637 - Current Reputation - Node: Master_3, Reputation: 65.50000000000006
+2024-06-25 13:01:14,638 - Authority Change - New Authority: Master_3
+2024-06-25 13:01:14,638 - Authority Change - New Authority: Master_3
+2024-06-25 13:01:17,019 - Current Reputation - Node: Master_1, Reputation: 48
+2024-06-25 13:01:17,020 - Current Reputation - Node: Master_2, Reputation: 68.7
+2024-06-25 13:01:17,020 - Current Reputation - Node: Master_3, Reputation: 65.60000000000005
+2024-06-25 13:01:17,020 - Authority Change - New Authority: Master_2
+2024-06-25 13:01:17,020 - Authority Change - New Authority: Master_2
+2024-06-25 13:01:18,349 - Current Reputation - Node: Master_1, Reputation: 50
+2024-06-25 13:01:18,350 - Current Reputation - Node: Master_2, Reputation: 68.8
+2024-06-25 13:01:18,350 - Current Reputation - Node: Master_3, Reputation: 65.60000000000005
+2024-06-25 13:01:18,350 - Authority Change - New Authority: Master_2
+2024-06-25 13:01:18,350 - Authority Change - New Authority: Master_2
+2024-06-25 13:01:24,652 - Current Reputation - Node: Master_1, Reputation: 52
+2024-06-25 13:01:24,652 - Current Reputation - Node: Master_2, Reputation: 74.99999999999999
+2024-06-25 13:01:24,652 - Current Reputation - Node: Master_3, Reputation: 67.60000000000005
+2024-06-25 13:01:24,652 - Authority Change - New Authority: Master_2
+2024-06-25 13:01:24,652 - Authority Change - New Authority: Master_2
+2024-06-25 13:01:38,091 - Current Reputation - Node: Master_1, Reputation: 54
+2024-06-25 13:01:38,091 - Current Reputation - Node: Master_2, Reputation: 83.69999999999995
+2024-06-25 13:01:38,091 - Current Reputation - Node: Master_3, Reputation: 81.60000000000005
+2024-06-25 13:01:38,091 - Authority Change - New Authority: Master_2
+2024-06-25 13:01:38,091 - Authority Change - New Authority: Master_2
+2024-06-25 13:01:39,414 - Current Reputation - Node: Master_1, Reputation: 56
+2024-06-25 13:01:39,414 - Current Reputation - Node: Master_2, Reputation: 83.79999999999994
+2024-06-25 13:01:39,414 - Current Reputation - Node: Master_3, Reputation: 81.60000000000005
+2024-06-25 13:01:39,414 - Authority Change - New Authority: Master_2
+2024-06-25 13:01:39,414 - Authority Change - New Authority: Master_2
+2024-06-25 13:01:39,677 - Current Reputation - Node: Master_1, Reputation: 58
+2024-06-25 13:01:39,677 - Current Reputation - Node: Master_2, Reputation: 83.79999999999994
+2024-06-25 13:01:39,677 - Current Reputation - Node: Master_3, Reputation: 81.60000000000005
+2024-06-25 13:01:39,677 - Authority Change - New Authority: Master_2
+2024-06-25 13:01:39,677 - Authority Change - New Authority: Master_2
+2024-06-25 13:01:41,095 - Current Reputation - Node: Master_1, Reputation: 60
+2024-06-25 13:01:41,095 - Current Reputation - Node: Master_2, Reputation: 83.99999999999993
+2024-06-25 13:01:41,095 - Current Reputation - Node: Master_3, Reputation: 81.60000000000005
+2024-06-25 13:01:41,095 - Authority Change - New Authority: Master_2
+2024-06-25 13:01:41,095 - Authority Change - New Authority: Master_2
+2024-06-25 13:01:44,103 - Current Reputation - Node: Master_1, Reputation: 62
+2024-06-25 13:01:44,103 - Current Reputation - Node: Master_2, Reputation: 84.19999999999992
+2024-06-25 13:01:44,103 - Current Reputation - Node: Master_3, Reputation: 83.60000000000005
+2024-06-25 13:01:44,103 - Authority Change - New Authority: Master_2
+2024-06-25 13:01:44,103 - Authority Change - New Authority: Master_2
+2024-06-25 13:01:44,684 - Current Reputation - Node: Master_1, Reputation: 64
+2024-06-25 13:01:44,685 - Current Reputation - Node: Master_2, Reputation: 84.29999999999991
+2024-06-25 13:01:44,688 - Current Reputation - Node: Master_3, Reputation: 83.60000000000005
+2024-06-25 13:01:44,688 - Authority Change - New Authority: Master_2
+2024-06-25 13:01:44,688 - Authority Change - New Authority: Master_2
+2024-06-25 13:01:47,114 - Current Reputation - Node: Master_1, Reputation: 66
+2024-06-25 13:01:47,114 - Current Reputation - Node: Master_2, Reputation: 84.3999999999999
+2024-06-25 13:01:47,114 - Current Reputation - Node: Master_3, Reputation: 85.60000000000005
+2024-06-25 13:01:47,114 - Authority Change - New Authority: Master_3
+2024-06-25 13:01:47,114 - Authority Change - New Authority: Master_3
+2024-06-25 13:01:48,478 - Current Reputation - Node: Master_1, Reputation: 68
+2024-06-25 13:01:48,478 - Current Reputation - Node: Master_2, Reputation: 84.3999999999999
+2024-06-25 13:01:48,478 - Current Reputation - Node: Master_3, Reputation: 85.70000000000005
+2024-06-25 13:01:48,478 - Authority Change - New Authority: Master_3
+2024-06-25 13:01:48,478 - Authority Change - New Authority: Master_3
+2024-06-25 13:01:50,123 - Current Reputation - Node: Master_1, Reputation: 70
+2024-06-25 13:01:50,123 - Current Reputation - Node: Master_2, Reputation: 84.3999999999999
+2024-06-25 13:01:50,124 - Current Reputation - Node: Master_3, Reputation: 85.80000000000004
+2024-06-25 13:01:50,124 - Authority Change - New Authority: Master_3
+2024-06-25 13:01:50,124 - Authority Change - New Authority: Master_3
+2024-06-25 13:01:54,713 - Current Reputation - Node: Master_1, Reputation: 72
+2024-06-25 13:01:54,714 - Current Reputation - Node: Master_2, Reputation: 86.3999999999999
+2024-06-25 13:01:54,714 - Current Reputation - Node: Master_3, Reputation: 90.00000000000003
+2024-06-25 13:01:54,715 - Authority Change - New Authority: Master_3
+2024-06-25 13:01:54,715 - Authority Change - New Authority: Master_3
+2024-06-25 13:01:56,138 - Current Reputation - Node: Master_1, Reputation: 74
+2024-06-25 13:01:56,138 - Current Reputation - Node: Master_2, Reputation: 86.3999999999999
+2024-06-25 13:01:56,138 - Current Reputation - Node: Master_3, Reputation: 92.10000000000002
+2024-06-25 13:01:56,138 - Authority Change - New Authority: Master_3
+2024-06-25 13:01:56,139 - Authority Change - New Authority: Master_3
+2024-06-25 13:01:59,150 - Current Reputation - Node: Master_1, Reputation: 76
+2024-06-25 13:01:59,150 - Current Reputation - Node: Master_2, Reputation: 88.3999999999999
+2024-06-25 13:01:59,150 - Current Reputation - Node: Master_3, Reputation: 92.30000000000001
+2024-06-25 13:01:59,150 - Authority Change - New Authority: Master_3
+2024-06-25 13:01:59,150 - Authority Change - New Authority: Master_3
+2024-06-25 13:02:00,463 - Current Reputation - Node: Master_1, Reputation: 78
+2024-06-25 13:02:00,464 - Current Reputation - Node: Master_2, Reputation: 90.3999999999999
+2024-06-25 13:02:00,464 - Current Reputation - Node: Master_3, Reputation: 92.5
+2024-06-25 13:02:00,464 - Authority Change - New Authority: Master_3
+2024-06-25 13:02:00,464 - Authority Change - New Authority: Master_3
+2024-06-25 13:02:11,190 - Current Reputation - Node: Master_1, Reputation: 80
+2024-06-25 13:02:11,198 - Current Reputation - Node: Master_2, Reputation: 98.4999999999999
+2024-06-25 13:02:11,198 - Current Reputation - Node: Master_3, Reputation: 100.79999999999998
+2024-06-25 13:02:11,198 - Authority Change - New Authority: Master_3
+2024-06-25 13:02:11,198 - Authority Change - New Authority: Master_3
+2024-06-25 13:02:12,483 - Current Reputation - Node: Master_1, Reputation: 82
+2024-06-25 13:02:12,483 - Current Reputation - Node: Master_2, Reputation: 98.4999999999999
+2024-06-25 13:02:12,484 - Current Reputation - Node: Master_3, Reputation: 100.89999999999998
+2024-06-25 13:02:12,484 - Authority Change - New Authority: Master_3
+2024-06-25 13:02:12,484 - Authority Change - New Authority: Master_3
+2024-06-25 13:02:18,502 - Current Reputation - Node: Master_1, Reputation: 84
+2024-06-25 13:02:18,502 - Current Reputation - Node: Master_2, Reputation: 98.4999999999999
+2024-06-25 13:02:18,502 - Current Reputation - Node: Master_3, Reputation: 108.99999999999997
+2024-06-25 13:02:18,502 - Authority Change - New Authority: Master_3
+2024-06-25 13:02:18,502 - Authority Change - New Authority: Master_3
+2024-06-25 13:02:20,233 - Current Reputation - Node: Master_1, Reputation: 86
+2024-06-25 13:02:20,233 - Current Reputation - Node: Master_2, Reputation: 98.4999999999999
+2024-06-25 13:02:20,233 - Current Reputation - Node: Master_3, Reputation: 109.09999999999997
+2024-06-25 13:02:20,233 - Authority Change - New Authority: Master_3
+2024-06-25 13:02:20,233 - Authority Change - New Authority: Master_3
+2024-06-25 13:02:21,498 - Current Reputation - Node: Master_1, Reputation: 88
+2024-06-25 13:02:21,498 - Current Reputation - Node: Master_2, Reputation: 100.4999999999999
+2024-06-25 13:02:21,498 - Current Reputation - Node: Master_3, Reputation: 109.29999999999995
+2024-06-25 13:02:21,498 - Authority Change - New Authority: Master_3
+2024-06-25 13:02:21,498 - Authority Change - New Authority: Master_3
+2024-06-25 13:02:23,237 - Current Reputation - Node: Master_1, Reputation: 90
+2024-06-25 13:02:23,237 - Current Reputation - Node: Master_2, Reputation: 100.4999999999999
+2024-06-25 13:02:23,237 - Current Reputation - Node: Master_3, Reputation: 109.39999999999995
+2024-06-25 13:02:23,238 - Authority Change - New Authority: Master_3
+2024-06-25 13:02:23,238 - Authority Change - New Authority: Master_3
+2024-06-25 13:02:26,247 - Current Reputation - Node: Master_1, Reputation: 92
+2024-06-25 13:02:26,248 - Current Reputation - Node: Master_2, Reputation: 104.4999999999999
+2024-06-25 13:02:26,248 - Current Reputation - Node: Master_3, Reputation: 109.69999999999993
+2024-06-25 13:02:26,248 - Authority Change - New Authority: Master_3
+2024-06-25 13:02:26,248 - Authority Change - New Authority: Master_3
+2024-06-25 13:02:27,511 - Current Reputation - Node: Master_1, Reputation: 94
+2024-06-25 13:02:27,511 - Current Reputation - Node: Master_2, Reputation: 104.4999999999999
+2024-06-25 13:02:27,511 - Current Reputation - Node: Master_3, Reputation: 109.79999999999993
+2024-06-25 13:02:27,511 - Authority Change - New Authority: Master_3
+2024-06-25 13:02:27,511 - Authority Change - New Authority: Master_3
+2024-06-25 13:02:32,281 - Current Reputation - Node: Master_1, Reputation: 96
+2024-06-25 13:02:32,283 - Current Reputation - Node: Master_2, Reputation: 110.4999999999999
+2024-06-25 13:02:32,283 - Current Reputation - Node: Master_3, Reputation: 110.09999999999991
+2024-06-25 13:02:32,283 - Authority Change - New Authority: Master_2
+2024-06-25 13:02:32,287 - Authority Change - New Authority: Master_2
+2024-06-25 13:02:34,805 - Current Reputation - Node: Master_1, Reputation: 98
+2024-06-25 13:02:34,806 - Current Reputation - Node: Master_2, Reputation: 112.5999999999999
+2024-06-25 13:02:34,806 - Current Reputation - Node: Master_3, Reputation: 110.09999999999991
+2024-06-25 13:02:34,806 - Authority Change - New Authority: Master_2
+2024-06-25 13:02:34,806 - Authority Change - New Authority: Master_2
+2024-06-25 13:02:35,281 - Current Reputation - Node: Master_1, Reputation: 100
+2024-06-25 13:02:35,281 - Current Reputation - Node: Master_2, Reputation: 112.5999999999999
+2024-06-25 13:02:35,281 - Current Reputation - Node: Master_3, Reputation: 110.09999999999991
+2024-06-25 13:02:35,281 - Authority Change - New Authority: Master_2
+2024-06-25 13:02:35,282 - Authority Change - New Authority: Master_2
+2024-06-25 13:02:39,807 - Current Reputation - Node: Master_1, Reputation: 102
+2024-06-25 13:02:39,814 - Current Reputation - Node: Master_2, Reputation: 116.89999999999988
+2024-06-25 13:02:39,818 - Current Reputation - Node: Master_3, Reputation: 112.09999999999991
+2024-06-25 13:02:39,818 - Authority Change - New Authority: Master_2
+2024-06-25 13:02:39,818 - Authority Change - New Authority: Master_2
+2024-06-25 13:02:41,300 - Current Reputation - Node: Master_1, Reputation: 104
+2024-06-25 13:02:41,300 - Current Reputation - Node: Master_2, Reputation: 116.99999999999987
+2024-06-25 13:02:41,300 - Current Reputation - Node: Master_3, Reputation: 112.09999999999991
+2024-06-25 13:02:41,300 - Authority Change - New Authority: Master_2
+2024-06-25 13:02:41,300 - Authority Change - New Authority: Master_2
+2024-06-25 13:02:44,311 - Current Reputation - Node: Master_1, Reputation: 106
+2024-06-25 13:02:44,311 - Current Reputation - Node: Master_2, Reputation: 119.09999999999987
+2024-06-25 13:02:44,311 - Current Reputation - Node: Master_3, Reputation: 112.09999999999991
+2024-06-25 13:02:44,311 - Authority Change - New Authority: Master_2
+2024-06-25 13:02:44,311 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:14,428 - Current Reputation - Node: Master_1, Reputation: 108
+2024-06-25 13:03:14,429 - Current Reputation - Node: Master_2, Reputation: 141.49999999999983
+2024-06-25 13:03:14,429 - Current Reputation - Node: Master_3, Reputation: 136.89999999999986
+2024-06-25 13:03:14,429 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:14,429 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:14,860 - Current Reputation - Node: Master_1, Reputation: 110
+2024-06-25 13:03:14,867 - Current Reputation - Node: Master_2, Reputation: 141.49999999999983
+2024-06-25 13:03:14,874 - Current Reputation - Node: Master_3, Reputation: 136.89999999999986
+2024-06-25 13:03:14,874 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:14,875 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:36,706 - Current Reputation - Node: Master_1, Reputation: 112
+2024-06-25 13:03:36,706 - Current Reputation - Node: Master_2, Reputation: 158.69999999999976
+2024-06-25 13:03:36,706 - Current Reputation - Node: Master_3, Reputation: 156.89999999999986
+2024-06-25 13:03:36,706 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:36,707 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:39,721 - Current Reputation - Node: Master_1, Reputation: 114
+2024-06-25 13:03:39,722 - Current Reputation - Node: Master_2, Reputation: 158.79999999999976
+2024-06-25 13:03:39,722 - Current Reputation - Node: Master_3, Reputation: 158.89999999999986
+2024-06-25 13:03:39,722 - Authority Change - New Authority: Master_3
+2024-06-25 13:03:39,722 - Authority Change - New Authority: Master_3
+2024-06-25 13:03:41,507 - Current Reputation - Node: Master_1, Reputation: 116
+2024-06-25 13:03:41,507 - Current Reputation - Node: Master_2, Reputation: 160.79999999999976
+2024-06-25 13:03:41,507 - Current Reputation - Node: Master_3, Reputation: 158.99999999999986
+2024-06-25 13:03:41,507 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:41,507 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:42,731 - Current Reputation - Node: Master_1, Reputation: 118
+2024-06-25 13:03:42,731 - Current Reputation - Node: Master_2, Reputation: 160.89999999999975
+2024-06-25 13:03:42,731 - Current Reputation - Node: Master_3, Reputation: 158.99999999999986
+2024-06-25 13:03:42,731 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:42,731 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:44,942 - Current Reputation - Node: Master_1, Reputation: 120
+2024-06-25 13:03:44,943 - Current Reputation - Node: Master_2, Reputation: 160.99999999999974
+2024-06-25 13:03:44,943 - Current Reputation - Node: Master_3, Reputation: 158.99999999999986
+2024-06-25 13:03:44,943 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:44,943 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:45,741 - Current Reputation - Node: Master_1, Reputation: 122
+2024-06-25 13:03:45,748 - Current Reputation - Node: Master_2, Reputation: 161.09999999999974
+2024-06-25 13:03:45,748 - Current Reputation - Node: Master_3, Reputation: 160.99999999999986
+2024-06-25 13:03:45,748 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:45,750 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:47,523 - Current Reputation - Node: Master_1, Reputation: 124
+2024-06-25 13:03:47,524 - Current Reputation - Node: Master_2, Reputation: 161.19999999999973
+2024-06-25 13:03:47,524 - Current Reputation - Node: Master_3, Reputation: 160.99999999999986
+2024-06-25 13:03:47,525 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:47,525 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:48,743 - Current Reputation - Node: Master_1, Reputation: 126
+2024-06-25 13:03:48,743 - Current Reputation - Node: Master_2, Reputation: 161.29999999999973
+2024-06-25 13:03:48,743 - Current Reputation - Node: Master_3, Reputation: 160.99999999999986
+2024-06-25 13:03:48,743 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:48,743 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:51,753 - Current Reputation - Node: Master_1, Reputation: 128
+2024-06-25 13:03:51,759 - Current Reputation - Node: Master_2, Reputation: 163.49999999999972
+2024-06-25 13:03:51,759 - Current Reputation - Node: Master_3, Reputation: 162.99999999999986
+2024-06-25 13:03:51,759 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:51,759 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:53,545 - Current Reputation - Node: Master_1, Reputation: 130
+2024-06-25 13:03:53,546 - Current Reputation - Node: Master_2, Reputation: 163.5999999999997
+2024-06-25 13:03:53,546 - Current Reputation - Node: Master_3, Reputation: 162.99999999999986
+2024-06-25 13:03:53,546 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:53,546 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:54,949 - Current Reputation - Node: Master_1, Reputation: 132
+2024-06-25 13:03:54,952 - Current Reputation - Node: Master_2, Reputation: 163.6999999999997
+2024-06-25 13:03:54,952 - Current Reputation - Node: Master_3, Reputation: 162.99999999999986
+2024-06-25 13:03:54,952 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:54,952 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:56,562 - Current Reputation - Node: Master_1, Reputation: 134
+2024-06-25 13:03:56,564 - Current Reputation - Node: Master_2, Reputation: 165.7999999999997
+2024-06-25 13:03:56,564 - Current Reputation - Node: Master_3, Reputation: 162.99999999999986
+2024-06-25 13:03:56,564 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:56,564 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:59,955 - Current Reputation - Node: Master_1, Reputation: 136
+2024-06-25 13:03:59,955 - Current Reputation - Node: Master_2, Reputation: 167.8999999999997
+2024-06-25 13:03:59,955 - Current Reputation - Node: Master_3, Reputation: 162.99999999999986
+2024-06-25 13:03:59,955 - Authority Change - New Authority: Master_2
+2024-06-25 13:03:59,955 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:00,786 - Current Reputation - Node: Master_1, Reputation: 138
+2024-06-25 13:04:00,787 - Current Reputation - Node: Master_2, Reputation: 168.09999999999968
+2024-06-25 13:04:00,787 - Current Reputation - Node: Master_3, Reputation: 164.99999999999986
+2024-06-25 13:04:00,787 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:00,788 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:33,881 - Current Reputation - Node: Master_1, Reputation: 140
+2024-06-25 13:04:33,881 - Current Reputation - Node: Master_2, Reputation: 206.99999999999963
+2024-06-25 13:04:33,881 - Current Reputation - Node: Master_3, Reputation: 180.99999999999986
+2024-06-25 13:04:33,881 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:33,881 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:41,730 - Current Reputation - Node: Master_1, Reputation: 142
+2024-06-25 13:04:41,731 - Current Reputation - Node: Master_2, Reputation: 219.09999999999962
+2024-06-25 13:04:41,731 - Current Reputation - Node: Master_3, Reputation: 180.99999999999986
+2024-06-25 13:04:41,732 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:41,732 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:42,896 - Current Reputation - Node: Master_1, Reputation: 144
+2024-06-25 13:04:42,897 - Current Reputation - Node: Master_2, Reputation: 219.19999999999962
+2024-06-25 13:04:42,897 - Current Reputation - Node: Master_3, Reputation: 180.99999999999986
+2024-06-25 13:04:42,897 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:42,903 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:44,733 - Current Reputation - Node: Master_1, Reputation: 146
+2024-06-25 13:04:44,733 - Current Reputation - Node: Master_2, Reputation: 219.2999999999996
+2024-06-25 13:04:44,733 - Current Reputation - Node: Master_3, Reputation: 180.99999999999986
+2024-06-25 13:04:44,733 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:44,733 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:45,901 - Current Reputation - Node: Master_1, Reputation: 148
+2024-06-25 13:04:45,904 - Current Reputation - Node: Master_2, Reputation: 219.3999999999996
+2024-06-25 13:04:45,905 - Current Reputation - Node: Master_3, Reputation: 180.99999999999986
+2024-06-25 13:04:45,905 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:45,905 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:47,749 - Current Reputation - Node: Master_1, Reputation: 150
+2024-06-25 13:04:47,750 - Current Reputation - Node: Master_2, Reputation: 219.4999999999996
+2024-06-25 13:04:47,750 - Current Reputation - Node: Master_3, Reputation: 180.99999999999986
+2024-06-25 13:04:47,750 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:47,750 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:48,907 - Current Reputation - Node: Master_1, Reputation: 152
+2024-06-25 13:04:48,908 - Current Reputation - Node: Master_2, Reputation: 219.5999999999996
+2024-06-25 13:04:48,908 - Current Reputation - Node: Master_3, Reputation: 180.99999999999986
+2024-06-25 13:04:48,908 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:48,909 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:50,757 - Current Reputation - Node: Master_1, Reputation: 154
+2024-06-25 13:04:50,758 - Current Reputation - Node: Master_2, Reputation: 219.6999999999996
+2024-06-25 13:04:50,758 - Current Reputation - Node: Master_3, Reputation: 180.99999999999986
+2024-06-25 13:04:50,758 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:50,758 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:51,914 - Current Reputation - Node: Master_1, Reputation: 156
+2024-06-25 13:04:51,914 - Current Reputation - Node: Master_2, Reputation: 219.79999999999959
+2024-06-25 13:04:51,914 - Current Reputation - Node: Master_3, Reputation: 180.99999999999986
+2024-06-25 13:04:51,914 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:51,922 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:53,781 - Current Reputation - Node: Master_1, Reputation: 158
+2024-06-25 13:04:53,781 - Current Reputation - Node: Master_2, Reputation: 219.89999999999958
+2024-06-25 13:04:53,781 - Current Reputation - Node: Master_3, Reputation: 180.99999999999986
+2024-06-25 13:04:53,781 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:53,782 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:54,925 - Current Reputation - Node: Master_1, Reputation: 160
+2024-06-25 13:04:54,926 - Current Reputation - Node: Master_2, Reputation: 219.99999999999957
+2024-06-25 13:04:54,926 - Current Reputation - Node: Master_3, Reputation: 180.99999999999986
+2024-06-25 13:04:54,926 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:54,926 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:56,790 - Current Reputation - Node: Master_1, Reputation: 162
+2024-06-25 13:04:56,790 - Current Reputation - Node: Master_2, Reputation: 220.09999999999957
+2024-06-25 13:04:56,790 - Current Reputation - Node: Master_3, Reputation: 180.99999999999986
+2024-06-25 13:04:56,790 - Authority Change - New Authority: Master_2
+2024-06-25 13:04:56,790 - Authority Change - New Authority: Master_2
+2024-06-25 13:05:15,990 - Current Reputation - Node: Master_1, Reputation: 164
+2024-06-25 13:05:15,991 - Current Reputation - Node: Master_2, Reputation: 236.99999999999952
+2024-06-25 13:05:15,991 - Current Reputation - Node: Master_3, Reputation: 196.99999999999986
+2024-06-25 13:05:15,991 - Authority Change - New Authority: Master_2
+2024-06-25 13:05:15,991 - Authority Change - New Authority: Master_2
+2024-06-25 13:05:31,791 - Node Left - Node ID: Master_2
+2024-06-25 13:05:31,791 - Authority Change - New Authority: Master_3
+2024-06-25 13:05:52,081 - Current Reputation - Node: Master_1, Reputation: 166
+2024-06-25 13:05:52,082 - Current Reputation - Node: Master_3, Reputation: 210.99999999999986
+2024-06-25 13:05:52,082 - Authority Change - New Authority: Master_3
+2024-06-25 13:05:52,083 - Authority Change - New Authority: Master_3
+2024-06-25 13:05:53,903 - Current Reputation - Node: Master_1, Reputation: 168
+2024-06-25 13:05:53,904 - Current Reputation - Node: Master_3, Reputation: 211.09999999999985
+2024-06-25 13:05:53,904 - Authority Change - New Authority: Master_3
+2024-06-25 13:05:53,904 - Authority Change - New Authority: Master_3
+2024-06-25 13:05:56,929 - Current Reputation - Node: Master_1, Reputation: 170
+2024-06-25 13:05:56,931 - Current Reputation - Node: Master_3, Reputation: 215.19999999999985
+2024-06-25 13:05:56,931 - Authority Change - New Authority: Master_3
+2024-06-25 13:05:56,931 - Authority Change - New Authority: Master_3
+2024-06-25 13:05:58,102 - Current Reputation - Node: Master_1, Reputation: 172
+2024-06-25 13:05:58,106 - Current Reputation - Node: Master_3, Reputation: 215.29999999999984
+2024-06-25 13:05:58,106 - Authority Change - New Authority: Master_3
+2024-06-25 13:05:58,106 - Authority Change - New Authority: Master_3
+2024-06-25 13:05:59,930 - Current Reputation - Node: Master_1, Reputation: 174
+2024-06-25 13:05:59,930 - Current Reputation - Node: Master_3, Reputation: 215.39999999999984
+2024-06-25 13:05:59,930 - Authority Change - New Authority: Master_3
+2024-06-25 13:05:59,930 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:00,229 - Current Reputation - Node: Master_1, Reputation: 176
+2024-06-25 13:06:00,229 - Current Reputation - Node: Master_3, Reputation: 215.49999999999983
+2024-06-25 13:06:00,229 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:00,229 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:02,936 - Current Reputation - Node: Master_1, Reputation: 178
+2024-06-25 13:06:02,936 - Current Reputation - Node: Master_3, Reputation: 217.59999999999982
+2024-06-25 13:06:02,936 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:02,936 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:04,117 - Current Reputation - Node: Master_1, Reputation: 180
+2024-06-25 13:06:04,118 - Current Reputation - Node: Master_3, Reputation: 217.69999999999982
+2024-06-25 13:06:04,118 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:04,118 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:05,945 - Current Reputation - Node: Master_1, Reputation: 182
+2024-06-25 13:06:05,945 - Current Reputation - Node: Master_3, Reputation: 217.7999999999998
+2024-06-25 13:06:05,945 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:05,945 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:23,972 - Current Reputation - Node: Master_1, Reputation: 184
+2024-06-25 13:06:23,980 - Current Reputation - Node: Master_3, Reputation: 221.8999999999998
+2024-06-25 13:06:23,980 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:23,980 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:25,165 - Current Reputation - Node: Master_1, Reputation: 186
+2024-06-25 13:06:25,165 - Current Reputation - Node: Master_3, Reputation: 221.9999999999998
+2024-06-25 13:06:25,165 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:25,165 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:25,255 - Current Reputation - Node: Master_1, Reputation: 188
+2024-06-25 13:06:25,261 - Current Reputation - Node: Master_3, Reputation: 222.0999999999998
+2024-06-25 13:06:25,266 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:25,283 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:28,175 - Current Reputation - Node: Master_1, Reputation: 190
+2024-06-25 13:06:28,176 - Current Reputation - Node: Master_3, Reputation: 224.1999999999998
+2024-06-25 13:06:28,176 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:28,176 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:29,980 - Current Reputation - Node: Master_1, Reputation: 192
+2024-06-25 13:06:29,980 - Current Reputation - Node: Master_3, Reputation: 224.29999999999978
+2024-06-25 13:06:29,981 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:29,981 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:30,269 - Current Reputation - Node: Master_1, Reputation: 194
+2024-06-25 13:06:30,269 - Current Reputation - Node: Master_3, Reputation: 224.39999999999978
+2024-06-25 13:06:30,269 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:30,269 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:31,178 - Current Reputation - Node: Master_1, Reputation: 196
+2024-06-25 13:06:31,207 - Current Reputation - Node: Master_3, Reputation: 224.39999999999978
+2024-06-25 13:06:31,207 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:31,207 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:34,185 - Current Reputation - Node: Master_1, Reputation: 198
+2024-06-25 13:06:34,185 - Current Reputation - Node: Master_3, Reputation: 226.59999999999977
+2024-06-25 13:06:34,185 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:34,194 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:35,270 - Current Reputation - Node: Master_1, Reputation: 200
+2024-06-25 13:06:35,270 - Current Reputation - Node: Master_3, Reputation: 226.69999999999976
+2024-06-25 13:06:35,270 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:35,270 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:37,194 - Current Reputation - Node: Master_1, Reputation: 202
+2024-06-25 13:06:37,194 - Current Reputation - Node: Master_3, Reputation: 228.79999999999976
+2024-06-25 13:06:37,194 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:37,194 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:46,223 - Current Reputation - Node: Master_1, Reputation: 204
+2024-06-25 13:06:46,225 - Current Reputation - Node: Master_3, Reputation: 242.89999999999975
+2024-06-25 13:06:46,225 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:46,225 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:48,034 - Current Reputation - Node: Master_1, Reputation: 206
+2024-06-25 13:06:48,034 - Current Reputation - Node: Master_3, Reputation: 242.99999999999974
+2024-06-25 13:06:48,034 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:48,034 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:49,225 - Current Reputation - Node: Master_1, Reputation: 208
+2024-06-25 13:06:49,225 - Current Reputation - Node: Master_3, Reputation: 243.09999999999974
+2024-06-25 13:06:49,225 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:49,225 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:52,231 - Current Reputation - Node: Master_1, Reputation: 210
+2024-06-25 13:06:52,237 - Current Reputation - Node: Master_3, Reputation: 247.19999999999973
+2024-06-25 13:06:52,240 - Authority Change - New Authority: Master_3
+2024-06-25 13:06:52,275 - Authority Change - New Authority: Master_3
