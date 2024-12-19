@@ -4,7 +4,7 @@
 This repository contains the implementation of the AgriTech project. AgriTech aims to provide traceability in an agricultural environment using blockchain technology with Directed Acyclic Graphs (DAGs). The project uses a Proof of Authority (PoA) consensus algorithm and includes three different setups: using an IPFS server, a traditional server, or no server at all.
 
 ## Authors 
-This activity is part of the project R&D&I Laboratory on Cybersecurity, Privacy, and Secure Communications (TRUST Lab) financed by European Union NextGeneration-EU, the Recovery Plan, Transformation and Resilience, through INCIBE.
+The study was supported by the grant PID2020-114410RB-I00 MCIN/AEI/10.13039/501100011033 and by the Autonomous Community of the Region of Murcia through the Fundación Séneca - Agencia de Ciencia y Tecnología de la Región de Murcia and the European programme NextGenerationEU.
 <div align="center">                                                    
     <img src="https://github.com/AVVillafranca/Pruebas/assets/168525862/fc1201ae-7be1-4980-a14e-ba08ab940c18" alt="TrustLab Logo">
 </div>
